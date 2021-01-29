@@ -1,2 +1,13 @@
 # Forschungswerkstatt
-Code from local activities concerning Technology and Sustainability
+
+## Short English Summary
+
+In this repository we collect reports and code from different activities
+within our project _Young Person's Research Laboratory "Technology for
+Sustainability"_.
+
+## Inhalt
+
+* Praktikumsbericht von __Martin George__ über das hardwaremäßige Design von
+  Mess-Stationen zur Luftqualitätsbestimmung sowie einer LoRa-basierten
+  Technologie zur Übertragung der Messdaten.
