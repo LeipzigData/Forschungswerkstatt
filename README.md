@@ -11,8 +11,12 @@ Sustainability"_.
 * Praktikumsbericht von __Martin George__ über das hardwaremäßige Design von
   Mess-Stationen zur Luftqualitätsbestimmung sowie einer LoRa-basierten
   Technologie zur Übertragung der Messdaten.
-* Notebooks von __Julian Oestreich__ mit verschiedenen Verfahren zum (automatisierten) 
-  Feature Engineering auf verschiedenen Datensätzen. Das Ziel ist die Erkennung
-  von Raumbelegungen durch Personen anhand verschiedener Messdaten.
-* Minimales __Proof-of-Concept__ für eine Webapp zur Echtzeitvisualisierung von Sensordaten
+  * Der Code ist im Repo <https://github.com/martinfg/lopy_sensor_nodes> zu
+    finden.
+* Notebooks von __Julian Oestreich__ mit verschiedenen Verfahren zum
+  (automatisierten) Feature Engineering auf verschiedenen Datensätzen. Das
+  Ziel ist die Erkennung von Raumbelegungen durch Personen anhand
+  verschiedener Messdaten.
+* Minimales __Proof-of-Concept__ für eine Webapp zur Echtzeitvisualisierung
+  von Sensordaten
   
