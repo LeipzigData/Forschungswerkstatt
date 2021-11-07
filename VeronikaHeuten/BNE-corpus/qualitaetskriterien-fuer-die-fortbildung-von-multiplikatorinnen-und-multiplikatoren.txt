@@ -1,0 +1,2085 @@
+Bildung für nachhaltige Entwicklung
+in der auSSerschulischen Bildung:
+Qualitätskriterien für die Fort­bildung von
+Multiplikatorinnen und Multiplikatoren
+
+Leitfaden für die Praxis
+
+B i l d u n g
+
+|
+
+W i s s e n s c h a f t
+
+|
+
+KULTUR
+
+|
+
+K o mm u n i k a t i o n
+
+Bildung für nachhaltige Entwicklung in der außerschulischen Bildung
+Qualitätskriterien für die Fortbildung von Multiplikatorinnen und
+Multiplikatoren
+Das vorliegende Papier entstand in der Arbeitsgruppe „Außerschulische Bildung“,
+die im Rahmen der deutschen Umsetzung der UN-Dekade „Bildung für nachhaltige
+Entwicklung“ eingerichtet wurde.
+Herausgeber:
+Deutsche UNESCO-Kommission e.V. (DUK)
+Verantwortlich: Dr. Marianne Dehne/Katrin Heeren
+Langwartweg 72
+53129 Bonn
+Tel.: +49(0)228-68 84 44-0
+Fax: +49(0)228-68 84 44-79
+E-Mail: sekretariat@esd.unesco.de
+www.bne-portal.de
+www.unesco.de
+Redaktion:
+Prof. Dr. Heike Molitor
+Robin Marwege
+unter Berücksichtigung der Vorarbeiten von:
+Prof. Dr. Michael Brodowski
+Petra Bröhl
+Dr. Friedrun Erben
+Gertrud Hartmann
+Thorsten Ludwig
+Eva Siekierski
+Lektorat:
+Marie-Luise Braun
+
+Layout:
+MediaCompany GmbH
+Druck: DCM Druck Center Meckenheim Gmbh
+Auflage: 1.000
+
+Print
+
+kompensiert
+Id-Nr. 1222517
+www.bvdm-online.de
+
+Titelfoto: ©Jörg Farys, Die Projektoren, Berlin
+Rückseite: ©Leuchtpol gGmbH
+Stand: September 2012
+
+Mit freundlicher Unterstützung von
+
+Die Deutsche UNESCO-Kommission ist eine Mittlerorganisation der Auswärtigen Kultur- und Bildungspolitik. Auf der Grundlage eines einstimmigen Bundestagsbeschlusses
+und mit Förderung des Bundesministeriums für Bildung und Forschung koordiniert sie
+die Umsetzung der UN-Dekade „Bildung für nachhaltige Entwicklung“ in Deutschland
+und hat hierfür ein Nationalkomitee berufen.
+Zitate aus der Publikation bitte mit folgender Angabe:
+Arbeitsgruppe Außerschulische Bildung (2012): Bildung für nachhaltige Entwicklung
+in der außerschulischen Bildung: Qualitätskriterien für die Fortbildung von Multiplikatorinnen und Multiplikatoren; 1. Auflage, Bonn: Deutsche UNESCO-Kommission.
+Im Interesse der Lesbarkeit verzichtet die vorliegende Broschüre in der Regel auf
+geschlechtsbezogene Doppelnennungen und verwendet die männliche Form. Gemeint
+sind dabei stets Frauen und Männer.
+
+ISBN 978-3-940785-42-8
+
+2
+
+Inhalt
+
+Inhalt
+Vorwort ............................................................................................................... 4
+Einleitung ........................................................................................................... 5
+1. An wen richtet sich diese Handreichung? ........................................ 6
+2. Einige Hintergründe zur Bildung für
+nachhaltige Entwicklung ........................................................................ 8
+3. Die Bedeutung von Qualitätsstandards für die
+außerschulische Bildung ...................................................................... 10
+4. Erläuterungen zu den ausgewählten Qualitätskriterien ......... 12
+5. Tabelle für die Praxis ............................................................................ 16
+Literatur ............................................................................................................. 25
+Mitglieder der Arbeitsgruppe „Außerschulische Bildung“ ............... 26
+
+Verzeichnis der Info-Kästen
+Info-Kasten 1:	Beispiele für die Vielfalt von BNE in außerschulischen
+Fortbildungen
+Info-Kasten 2:	Kann man bei Bildung eigentlich von „Erfolg“ sprechen
+und kann man diesen messen?
+Info-Kasten 3: Wie messbar wird BNE mit dieser Handreichung?
+Info-Kasten 4: Die zehn Qualitätskriterien im Überblick
+Info-Kasten 5:	Bewusstseinswandel braucht ein Nachdenken über
+eigene Haltungen
+Info-Kasten 6:	Was hält die Tabelle für mich bereit?
+Info-Kasten 7: 	Hintergrund zum Bewertungsansatz für die Qualitäts­
+kriterien
+Info-Kasten 8: 	Kurz-Info: Qualitätskriterien für die Fortbildung von
+BNE-Multiplikatoren
+Info-Kasten 9: Quellen für zusätzliche Methodensammlungen
+
+3
+
+Vorwort
+
+Foto: © DUK
+
+Vorwort des Vorsitzenden des
+Nationalkomitees für die UN-Dekade
+„Bildung für nachhaltige Entwicklung“
+
+Liebe Leserinnen und Leser,
+Klimawandel, Artensterben, Hungers­
+nöte - wir stehen im 21. Jahrhundert vor
+zahlreichen Herausforderungen. Damit
+wir uns für ein gutes Leben weltweit
+einsetzen können, heute und morgen,
+brauchen wir ein Verständnis für die
+vielen Zusammenhänge zwischen sozi­
+alen, ökologischen und wirtschaftlichen
+Faktoren. Wir brauchen aber auch die
+Kompetenzen und die Motivationen,
+dieses Wissen dann in Handeln umzu­
+setzen. Bildung für nachhaltige Ent­
+wicklung (BNE) möchte das notwen­
+dige Rüstzeug dafür geben. Sie möchte
+allen Menschen die Möglichkeit geben,
+die Werte, Kenntnisse und Fertigkeiten
+zu erwerben, die zur Gestaltung einer
+lebenswerten Zukunft benötigt werden.
+Sie macht Lust darauf, kreativ zu wer­
+den. Es geht nicht in erster Linie um
+„trouble-shooting“, sondern um positi­
+ve Visionen, die gemeinsam umgesetzt
+werden können.
+
+4
+
+Seit Beginn der von den Vereinten
+Nationen ausgerufenen Weltdekade
+„Bildung für nachhaltige Entwicklung“
+(2005-2014) sind wir in Deutschland
+schon einen großen Schritt vorange­
+kommen. Zahlreiche Kindergärten und
+Schulen sind auf diesem Gebiet aktiv;
+in der Berufsbildung werden vielver­
+sprechende Ansätze verfolgt, eine gan­
+ze Reihe Hochschulen hat sich auf den
+Weg gemacht. Nicht zuletzt aber der
+außerschulische Bereich leistet im Be­
+reich BNE Beachtliches und überzeugt
+durch viele innovative und anspruchs­
+volle Bildungsangebote. So stammen
+alleine 950 der von der Deutschen
+UNESCO-Kommission ausgezeich­
+neten 1.500 Dekade-Projekte aus dem
+non-formellen und informellen Bereich.
+Verschaffen Sie sich unter www.bneportal.de/datenbank gerne selbst einen
+Eindruck von der ganzen Vielfalt dieser
+Projekte!
+Unser Anliegen muss es nun sein, BNE
+flächendeckend in Deutschland zu
+verankern und dabei dauerhaft „vom
+Projekt zur Struktur“ zu kommen. Die
+Bildungslandschaft ist heute immer
+in Bewegung. Mit den laufenden Bil­
+dungsreformen in Deutschland werden
+neue Bildungspläne entwickelt, neue
+Lernmethoden etabliert und Netzwer­
+ke mit lokalen Partnern gefördert. Bil­
+dungseinrichtungen öffnen sich für
+neue Kooperationen zwischen den ver­
+schiedenen Lernorten. Informelles und
+lebenslanges Lernen gewinnen in dem
+Maße an Bedeutung, in dem tradierte
+Lernorte und formale Bildungsbereiche
+aufgrund rascher Wandlungsprozesse
+neu definiert werden müssen. Diese Ge­
+gebenheiten und Chancen gilt es zu nut­
+zen, um alle Menschen mit Bildung für
+nachhaltige Entwicklung zu erreichen.
+Insbesondere ältere Mitbürgerinnen und
+Mitbürger, aber auch sozial benachtei­
+ligte Kinder und Jugendliche gehören zu
+
+den Zielgruppen, die noch zu selten im
+Fokus stehen.
+Mit dem vorliegenden Leitfaden der
+AG „Außerschulische Bildung“ des
+Runden Tisches der UN-Dekade in
+Deutschland ist jetzt ein weiterer sub­
+stanzieller Vorstoß gemacht, BNE in die
+Breite zu tragen: Die Broschüre führt
+in das Bildungskonzept von BNE ein,
+erläutert die Qualitätsstandards, die
+in der außerschulischen Bildung eine
+Rolle spielen, und gibt Multiplikatoren
+und Multiplikatoren fest definierte Qua­
+litätskriterien an die Hand. Qualitätskri­
+terien, die anhand von Praxisbeispielen
+erläutert werden und leicht in die eigene
+Fortbildungspraxis zu übertragen sind.
+Damit leistet die Broschüre einen wich­
+tigen Beitrag, die Verständigung über
+BNE sowie die Verbreitung von BNE
+im außerschulischen Bildungsbereich
+voran zu bringen. Sie trägt aber auch
+zur Qualitätssicherung in diesem Be­
+reich bei. Das liegt mir persönlich sehr
+am Herzen, denn erst dann kann BNE
+ihre ganze Stärke entwickeln und insge­
+samt maßgeblich zur Bildungsqualität
+in der Wissensgesellschaft Deutschland
+beitragen.
+In diesem Sinne wünsche ich allen Lese­
+rinnen und Lesern eine anregende Lek­
+türe und alles Gute bei der Arbeit mit
+diesem Leitfaden - im Interesse einer
+gemeinsamen lebenswerten Zukunft!
+
+Prof. Dr. Gerhard de Haan
+Vorsitzender des Nationalkomitees für
+die UN-Dekade „Bildung für nachhaltige
+Entwicklung“
+
+Einleitung
+
+Einleitung
+Bildung für nachhaltige Entwicklung
+(BNE) ist ein internationales werte­
+orientiertes Bildungskonzept. In Deutsch-­
+land wird dieser Ansatz seit Ende der
+90er Jahre und verstärkt seit Beginn
+der UN-Dekade „Bildung für nachhal­
+tige Entwicklung“ (2005-2014) in den
+verschiedenen Bildungsbereichen um­
+gesetzt. Innerhalb der außerschulischen
+Bildung beeindruckt allein der Bereich
+Umweltbildung/Bildung für nachhaltige
+Entwicklung mit diesen Zahlen: Rund
+5000 Personen leisten Bildungsarbeit in
+ca. 600 Zentren sowie bei ca. 600 freien
+Trägern (ANU o.J.: 4) – dazu kommen
+noch Akteure im Bereich des Globalen
+Lernens, der politischen Bildung und in
+weiteren Feldern, die für BNE relevant
+sind. Die Menschen, die diese Bildungs­
+arbeit für die vielen Teilnehmer leisten,
+sind Multiplikatoren für Themen rund
+um die nachhaltige Entwicklung. Viele
+lassen sich für diese komplexe und wich­
+tige Aufgabe fortbilden, um ihre Bil­
+dungsarbeit (noch) stärker an BNE aus­
+zurichten. Gleichzeitig besteht aber noch
+ein großes ungenutztes Potential, BNE in
+der tatsächlichen Praxis der außerschu­
+lischen Bildung zu verankern: In einer
+repräsentativen Umfrage geben über die
+Hälfte der befragten Einrichtungen an,
+sich nicht oder nicht intensiv mit BNE
+zu befassen (Rode et al. 2011: 6). BNE
+konnte sich demzufolge noch nicht im
+außerschulischen Bereich etablieren. Um
+dies zu verändern, werden viele Fortbil­
+dungen entwickelt und angeboten. Aber
+welche Qualitätsansprüche sollen diese
+Fortbildungen erfüllen?
+Mit dieser Frage beschäftigt sich die Ar­
+beitsgruppe „Außerschulische Bildung“
+der UN-Dekade, in deren Umfeld die in
+dieser Handreichung dargelegten Qua­
+litätskriterien für die Fortbildung von
+BNE-Multiplikatoren entstanden sind.
+Eine Tabelle fasst die Kriterien auf einen
+Blick zusammen und enthält konkrete
+Anregungen, wie diese in einem Fortbil­
+dungskonzept umgesetzt werden können.
+Damit richtet sich die Handreichung di­
+rekt an die Anbieter solcher Fortbildun­
+gen und dient als Anregung
+
+• bei der Konzeption von
+Fortbildungen im Kontext
+von Bildung für nachhaltige
+Entwicklung,
+• bei der Überprüfung eigener
+Fortbildungen, inwieweit
+diese Kriterien einer BNE
+entsprechen, und
+• bei der Weiterentwicklung
+bestehender Fortbildungen
+in Richtung BNE.
+Das übergeordnete Ziel dieser Handrei­
+chung ist es, über die Stärkung von BNE
+innerhalb der außerschulischen Bildung
+den nötig gewordenen Bewusstseins­
+wandel mit anzustoßen. Umwelt- und
+Entwicklungsprobleme machen deutlich:
+Ein „Weiter so“ ist keine Lösung – und
+gesellschaftlicher Wandel braucht Bil­
+dung, die von authentisch arbeitenden
+Menschen gestaltet wird. Die insgesamt
+zehn Qualitätskriterien konkretisieren,
+wie dafür außerschulische Bildungsan­
+gebote entwickelt werden können. Sie
+sollen als Ergänzung zu bestehenden
+Konzepten zu BNE neue Denkweisen
+anstoßen. Folgende Fragen können dann
+beantwortet werden:
+• Entspricht meine Fortbildung
+den Qualitätskriterien für die
+Fortbildung von BNE-Multiplikatoren?
+• Was sollen meine Teilnehmer
+am Ende können?
+
+• Welche Rolle nehme ich
+selbst innerhalb des Bildungsprozesses ein?
+Zum Aufbau dieser Handreichung:
+Zentraler Bestandteil dieser Handrei­
+chung sind die Qualitätskriterien für die
+Fortbildung von BNE-Multiplikatoren.
+Sie sind in Kapitel 5 in einer Tabelle zu­
+sammengefasst, die wesentliche Aspek­
+te auf übersichtliche Weise zusammen­
+stellt und die auch für sich genommen
+die Vorbereitung und Durchführung von
+
+Fortbildungen nach BNE-Kriterien er­
+möglicht.
+Die Tabelle der Qualitäts­­krite­rien (Kapitel 5) gibt eine
+praktische Zusammenfassung
+– die gesamte Handreichung
+bietet hilfreiche Erläuterungen
+und Hintergründe.
+Um die Kriterien zu erläutern, wird in
+Kapitel 1 zunächst gezeigt, für wen die
+Qualitätskriterien eine Hilfe sein können.
+Praktische Beispiele verdeutlichen dabei
+exemplarisch die Bandbreite des außer­
+schulischen Bildungsbereiches.
+Der kurze Abriss zum Hintergrund
+des Leitbildes Bildung für nachhaltige
+Entwicklung in Kapitel 2 zeigt auf, an
+welchen Grundlagen sich die Qualitäts­
+kriterien orientieren.
+Kapitel 3 wirft den Blick auf die Qua­
+litätsdiskussion in der außerschulischen
+Bildung und behandelt grundlegende
+Fragen, die sich bei der Entwicklung
+von Qualitätskriterien stellen – z.B. wann
+man eigentlich von „erfolgreicher“ Bil­
+dung sprechen kann.
+Die Auswahl der zehn Qualitäts­kriterien
+dieser Handreichung wird in Kapitel 4
+begründet, außerdem wird detailliert
+erläutert, wie die einzelnen Kriterien zu
+verstehen sind.
+Dabei erhebt diese Handreichung nicht
+den Anspruch, die allein gültigen BNEKriterien für die außerschulische Bildung
+zu liefern – sie soll vielmehr neue Im­
+pulse für die Diskussion um Kriterien
+für Bildung für nachhaltige Entwicklung
+geben.
+In diesem Sinne wünscht eine anregende
+Lektüre und gutes Gelingen beim An­
+wenden der Kriterien
+Die AG „Außerschulische Bildung“
+der UN-Dekade „Bildung für nachhaltige Entwicklung“
+www.bne-portal.de/arbeitsgruppen
+
+5
+
+Zielgruppe
+
+1. An wen richtet sich diese Handreichung?
+Diese Handreichung richtet sich an alle, die Menschen fortbilden, die ihrerseits Veranstaltungen zur
+Bildung für nachhaltige Entwicklung im außerschulischen Bereich durchführen oder anbieten wollen.
+Anbieter von
+Fortbildungen
+
+BNEKriterien
+
+BNEMultiplikatoren
+
+wenden
+sich an
+
+Bildungsangebote im
+außerschulischen Bereich
+finden zu unterschiedlichen Themen an verschiedenen Lernorten
+statt. Dementsprechend
+vielfältig sind auch die
+Fortbildungen, die sich
+zudem in ihrer Dauer und
+bezüglich des Stellen­
+wertes, den BNE dort hat,
+deutlich unterscheiden
+(siehe Info-Kasten 1).
+
+Teilnehmer an
+Bildungsangeboten
+
+wenden
+sich an
+
+Info-Kasten 1
+
+Foto: © Leuchtpol gGmbH
+
+Beispiele für die Vielfalt von BNE in
+außerschulischen Fortbildungen
+Erzieher in Kindertagesstätten
+Das Leben in Kindertagesstätten ist von der Neugier, dem Wissensdurst
+und der Aktivität der Kinder geprägt. Täglich gibt es neue spannende
+Themen und Fragen, die erkundet und hinterfragt sein wollen – auch und
+insbesondere Themen zu nachhaltiger Entwicklung. Diesen bedeutenden
+frühkindlichen Lern- und Bildungsort mit den Kindern, deren Familien und
+den Akteuren des Umfeldes zu gestalten, ist für die Erzieher eine große
+Herausforderung. Die Fortbildungen und Materialien des Bildungsprojektes Leuchtpol unterstützen Erzieher in ihrer Rolle als Lernbegleiter.
+Das heißt sie bestärken Kinder, ihre Umwelt aktiv zu erschließen und
+mitzugestalten und sich mit BNE-Themen am Beispiel von Energie und
+Umwelt zu befassen. Aktivierende und handlungsorientierte Methoden
+in den mehrtägigen Fortbildungen regen
+die Erzieher an, sich mit BNE-Inhalten
+auseinander zu setzen und eigene
+Werte und Haltungen zu vertiefen. Wesentlich ist hierbei die Nähe und Umsetzbarkeit im pädagogischen Kita-Alltag,
+sowie konkrete Bezüge zwischen dem
+eigenen Handeln und den Themen nachhaltiger Entwicklung greif- und erlebbar
+zu machen.
+
+Konsumkritische Stadtführer
+Junge Menschen möchten selbst aktiv werden und andere Menschen
+motivieren, über die Folgen ihres alltäglichen Konsums nachzudenken
+und Handlungsalternativen zu entwickeln. Im Rahmen der Kampagne
+„Mission: Klima retten - Powered by Heaven“ werden sie als konsum-
+
+6
+
+Foto: ©Jörg Farys, Die Projektoren, Berlin
+Foto: © Thorsten Ludwig
+
+kritische Stadtführer zu Multiplikatoren.
+In zweitägigen Seminaren beschäftigen
+sie sich mit dem Thema Konsum, mit den
+weltweiten Zusammenhängen, mit der
+Frage der Gerechtigkeit und der Notwendigkeit, Verantwortung zu übernehmen.
+Die jungen Menschen entwickeln Konzepte für konsumkritische Stadtrundgänge,
+um so ihre Mitmenschen zu informieren
+und zu sensibilisieren.
+Ranger in Natur- und Nationalparken
+Ranger in Großschutzgebieten verstehen sich als Vermittler zwischen
+Mensch und Natur. In den mehrwöchigen ParcInterp-Fortbildungskursen
+machen sie sich u. a. mit Methoden der Gästeführung vertraut und
+erarbeiten Texte für Tafeln oder Hörstationen. Um BNE mit ihren eigenen
+Konzepten in Einklang zu bringen und an Besucher in Freizeitstimmung
+heranzutragen, üben sie sich darin, auf unterhaltsame Weise Brücken in
+die Lebenswelt ihrer Gäste zu schlagen. So gelingt es ihnen, Nachhaltigkeitsaspekte an Dingen festzumachen, die auch für Urlauber mit eher
+beiläufigem Bildungsinteresse interessant sind. Als Teilnehmer an Fortbildungskursen erfahren sie, wie sie den schonenden Umgang mit und die
+gerechte Verteilung von zu bewahrenden Naturgütern - jetzt und künftig
+wie hier und weltweit - an solchen BNESchlüsselphänomenen erfahrbar machen
+können. Sie gewinnen Vertrauen, um die
+Komplexität von BNE in ihrem eigenen
+Arbeitsalltag anzugehen. Die in dieser
+Broschüre zusammengefassten Qualitätskriterien ermöglichen es den Leitern
+der Fortbildungskurse, ihre Kursinhalte
+und -methoden auf diese Anforderungen
+auszurichten.
+
+Foto: © Friedrich Laatz
+
+Internationales Klimacamp der Evangelischen Jugend Dortmund: 35 Jugendliche und junge Erwachsene aus fünf Ländern
+beschäftigen sich mit den Folgen des Klimawandels.
+
+Diese Handreichung ist
+vor dem Hintergrund der
+Vielfalt von Akteuren der
+außerschulischen Bildung
+möglichst praxisnah
+formuliert, um als Orientierungshilfe für verschiedene Fortbildungen zu
+dienen. Dazu gehört auch
+die kurze Aufnahme der
+allgemeinen Diskussion
+um BNE und Qualitätsstandards in den beiden
+folgenden Kapiteln.
+
+7
+
+Bildung für nachhaltige Entwicklung
+
+2. Einige Hintergründe zur Bildung
+für nachhaltige Entwicklung
+Wie sollte die Welt gestaltet sein, in der Menschen heute und in Zukunft ein gutes Leben führen können? Diese Frage steht im Zentrum der Bildung für nachhaltige Entwicklung (BNE). Dabei handelt es
+sich um ein werteorientiertes Konzept (Stoltenberg 2010), das aus den Diskussionen um das Leitbild
+der nachhaltigen Entwicklung entstanden ist. Der Begriff „Nachhaltige Entwicklung“ wird vor allem
+seit dem 1987 veröffentlichten UN-Bericht „Our Common Future“ verwendet und diskutiert. Dieser
+Bericht der sogenannten Brundtland-Kommission (daher oft auch „Brundtland-Bericht“) formuliert
+Nachhaltigkeit auf eine heute noch häufig zitierte Weise:
+Es handelt sich um eine „Entwicklung, die die Bedürfnisse der heutigen
+Generation befriedigt, ohne zu riskieren, dass zukünftige Generationen ihre Bedürfnisse nicht mehr befriedigen können“.
+(Hauff 1987: 46)
+
+Zum einen geht es um den Erhalt unserer natürlichen Lebensgrundlagen, zum
+anderen um weltweite Gerechtigkeit
+in zweierlei Hinsicht: unter den heute
+auf der Erde lebenden Menschen und
+zwischen der heutigen Generation und
+den künftigen Generationen. Schon
+dieser Bericht zeigt, dass ökologische,
+soziale und wirtschaftliche Sichtweisen zusammengeführt werden müssen,
+um nachhaltige Lösungsansätze zu
+entwickeln. Um an diese Ausgangspunkte anzuschließen und das Thema
+zu konkretisieren, wird seitdem auf
+zunehmend breiterer Basis über Nachhaltigkeit diskutiert: Nicht nur in den
+Randbereichen der Umwelt- und Entwicklungsorganisationen, sondern in
+Wissenschaft, Politik und Gesellschaft.
+Die UN-Konferenz von Rio 1992 bildete hier einen internationalen Höhepunkt.
+Auf diesem „Erd-Gipfel“ wurde als
+ein wichtiges Dokument die „Agenda
+21“ verabschiedet. Sie macht fassbar,
+was nachhaltige Entwicklung über die
+Brundtland-Definition hinaus bedeuten
+kann – das Kapitel 36 betont dabei ausdrücklich die Rolle aller Bildungsbereiche (UNCED 1992). Auf dem Folgegipfel 2002 in Johannesburg wurde die
+UN-Dekade „Bildung für nachhaltige
+Entwicklung“ (2005-2014) ausgerufen
+und die UNESCO1 damit beauftragt,
+das Konzept international stärker zu
+verankern.
+
+8
+
+Im Zuge dieser internationalen Impulse
+wurde in Deutschland schon seit Ende
+der 90er Jahre das Konzept „Bildung
+für nachhaltige Entwicklung“ entwickelt und diskutiert. Zwar gibt es nicht
+die eine Definition, wie BNE genau zu
+sein hat, die Grundsätze sind aber klar
+herausgearbeitet: Es geht darum, Menschen zu befähigen, ihre Zukunft und
+die Gesellschaft im Sinne nachhaltiger
+Entwicklung mitzugestalten (de Haan/
+Harenberg 1999). Damit geht ein Bildungsverständnis einher, das von Offenheit und Reflexion geprägt ist (vgl.
+de Haan 2002: 14): Offenheit gegenüber neuen Erfahrungen jenseits eines
+vorherbestimmten Wissenskanons ergänzt dabei die Reflexion über Veränderungen des Selbst und der eigenen
+Handlungen.
+Die Menschen werden durch das Bildungsverständnis der BNE nicht nur als
+Verursacher von globalen Umwelt- und
+Entwicklungsproblemen gesehen, sondern auch als Gestalter einer nachhaltigen Entwicklung. Hieraus ergeben sich
+besondere Anforderungen an die Inhalte
+und die Methodik:
+Inhalte: BNE steht für Inhalte, die sich
+aus dem Leitbild der nachhaltigen Entwicklung ableiten lassen. Es werden z.B.
+Schlüsselthemen der BNE benannt, anhand derer besonders gut Konsequenzen
+
+Foto: © Leuchtpol gGmbH
+
+Bildung für nachhaltige Entwicklung in der Praxis: Die Erzieherin geht mit ihren Kita-Kindern Fragen zu Energie und Umwelt auf den Grund.
+
+für ökologische, soziale und ökonomische Prozesse diskutiert werden können
+(BMBF 2009: 6f.). Diese Themen sind
+zudem anschlussfähig an den Alltag der
+Menschen.
+Methodik: Zu den methodischen Grundsätzen der BNE gehört eine weitgehende Beteiligung (Partizipation) der Menschen. Sie sollen den Bildungsprozess
+im Wesentlichen mit bestimmen, den
+Fortbildner obliegt die Rolle einer
+Lernbegleitung (vgl. Siebert 2006: 5).
+Im Sinne ganzheitlicher Bildung sollte
+BNE nicht nur die Dinge in ihren Zusammenhängen betrachten, sondern
+auch mehrere Erfahrungsdimensionen
+(z.B. Denken, Fühlen, Handeln, Urteilen) ansprechen. Hierzu bieten gerade
+außerschulische Lernorte viele Möglichkeiten.
+Ziel von BNE ist es, Gestaltungskompetenz zu fördern. Um dieses greifbarer
+und leichter umsetzbar zu machen, wurden im deutschen Diskurs mittlerweile
+zwölf Teilkompetenzen formuliert. Sie
+wurden unter der Leitung von Gerhard
+de Haan für schulische Kontexte in dem
+von Bund und Ländern geförderten Projekt „Transfer-21“ erstellt2. Zwischen
+den in dieser Handreichung erarbeiteten
+Qualitätskriterien und der Diskussion
+um die Teilkompetenzen ergeben sich
+viele Parallelen.
+
+Für den außerschulischen Bereich liefern die internationalen Schriften der
+UNESCO zur Umsetzung der UN-Dekade „Bildung für nachhaltige Entwicklung“ wertvolle Anregungen. Hier spielt
+insbesondere der Wertebezug und die
+Bedeutung der Wertschätzung (engl.:
+respect) eine wichtige Rolle: Wertschätzung für andere Menschen einschließlich künftiger Generationen, Wertschätzung für Vielfalt und Verschiedenheit
+und Wertschätzung für andere Lebensgemeinschaften und für die Rohstoffe
+unseres Planeten. Diese Werthaltungen
+sollen mithilfe von BNE in alle Aspekte des Lernens integriert werden, um
+letztendlich Verhalten für eine gerechtere und nachhaltigere Gesellschaft zu
+ermöglichen (UNESCO 2006: 4). Die
+Qualitätskriterien dieser Hand­reichung
+beziehen sich unmittelbar auf diese Vorstellungen.
+Darüber hinaus lautet die konkrete Frage, der sich diese Handreichung widmet:
+„Wie kann ich diese Anforderungen als
+Fortbildner in meinem eigenen Bildungskonzept berücksichtigen?“. Bevor dies in Kapitel 4 und 5 beantwortet
+wird, gibt der folgende Abschnitt einen
+kurzen Einblick in allgemeine Fragen
+zu Qualitätsstandards in Bildungs­
+zusammenhängen.
+
+1	United Nations Educational, Scientific and
+Cultural Organization
+2	Die Teilkompetenzen lauten (nach Transfer-21 2007 und Transfer-21 o.J.):
+	1.	Weltoffen und neue Perspektiven
+integrierend Wissen aufbauen
+	2.	Vorausschauend Entwicklungen analysieren und beurteilen können
+	3.	Interdisziplinär Erkenntnisse gewinnen und handeln
+	4.	Risiken, Gefahren und Unsicherheiten
+erkennen und abwägen können
+	5.	Gemeinsam mit anderen planen und
+handeln können
+	6.	Zielkonflikte bei der Reflexion über
+Handlungsstrategien berücksichtigen
+können
+	7.	An kollektiven Entscheidungsprozessen teilhaben können
+	8.	Sich und andere motivieren können,
+aktiv zu werden
+	9.	Die eigenen Leitbilder und die anderer
+reflektieren können
+	10.	Vorstellungen von Gerechtigkeit als
+Entscheidungs- und Handlungsgrundlage nutzen können
+	11.	Selbstständig planen und handeln
+können
+12. Empathie für andere zeigen können
+
+9
+
+Qualitätsstandards auSSerschulische Bildung
+
+3. Die Bedeutung von Qualitätsstandards
+für die außerschulische Bildung
+Eine Stärke der außerschulischen Bildung besteht in der Vielfalt der Möglichkeiten, BNE umzusetzen.
+Wie aber kann vor diesem Hintergrund Qualität definiert werden? Für die Bewertung und Fortentwicklung von Bildungsangeboten ist eine Vereinbarung von Zielen hilfreich. Aus dieser Erkenntnis
+heraus werden Zielfestlegungen in Form von Qualitätsstandards auch von möglichen Geldgebern
+zunehmend eingefordert. Gute Qualität von Bildungsangeboten kann nicht von einem einzelnen
+Experten abschließend definiert werden, sondern sollte von allen an Bildungsprozessen Beteiligten
+bestimmt werden. Die in dieser Handreichung vorgelegten Kriterien verstehen sich in diesem Sinne
+als Impuls für die fortlaufende Diskussion über BNE-Qualitätsansprüche im außerschulischen
+Bildungsbereich.
+
+Um Qualität in der Bildung beurteilen zu können gibt es verschiedene Ansätze:
+• Einerseits wird die Bildungsorganisation in den Blick
+genommen, wofür als ein
+Beispiel neben anderen die
+LQW-Zertifizierung1 genannt
+werden kann. Diese Blick­
+weise überwiegt derzeit und
+prüft die Qualität der Lernbedingungen in der Organisation (wie z.B. Definition eines
+Leitbildes, Weiterbildung von
+Mitarbeitern oder Infrastruktur).
+•E
+ s gibt aber auch Konzepte,
+die Bildungsveranstaltungen
+auf ihre BNE-Qualität prüfen,
+so z.B. der „BNE-Generator“2.
+Es werden dabei besonders
+inhaltliche und didaktische
+Gesichtspunkte in die Kriterien einbezogen. Dieser
+Zuschnitt auf die Bildungsveranstaltung hat stärker Handreichungscharakter für alle,
+die Menschen weiterbilden
+– also beispielsweise für alle,
+die Fortbildungen für BNEMultiplikatoren anbieten.
+• Ein dritter Ansatz ist, die
+Ergebnisqualität bzw. den
+„Erfolg“ von Bildung direkt
+bei den Teilnehmer zu mes-
+
+10
+
+sen, wie es z.B. in der PISAStudie angelegt ist. Das ist
+jedoch nicht so leicht, weil der
+tatsächliche Bildungserfolg
+etwas ganz Individuelles ist
+(siehe Info-Kasten 2 und vgl.
+Zech 2008a: 12). Dieser Ansatz
+ist noch nicht so konkret für
+BNE ausgearbeitet worden,
+dass es z.B. einen BNE-Test
+für Schüler gäbe.
+Die Qualitätskriterien dieser Handreichung sind dem zweiten Ansatz zuzuordnen, weil sie auf die Bildungsveranstaltung abzielen.
+Ein weiterer Punkt, über den bei der
+Entwicklung von Qualitätskriterien gesprochen werden sollte, ist die Frage
+nach der Lernziel- bzw. Kompetenz­
+orientierung.
+„Lernziele“ können mit Bereichen wie
+Denken, Fühlen, Urteilen oder Handeln
+sehr unterschiedliche Ebenen umfassen. Heute sind Lernziele meist Grundlage der Bildungsplanung – für die Qualitätssicherung sind solche vorab definierten Ziele sogar unerlässlich. Kritik
+wird daran geübt, dass der Schwerpunkt
+oft auf kognitiven Lernzielen liegt (vgl.
+Bonsen/Hey 2002: 3). Der Grund dafür
+ist, dass Wissen vergleichsweise leicht
+zu messen ist. Gerade für BNE besteht
+aber das Ziel, über Wissen hinaus Kompetenzen zu fördern. Unter Kompetenzen versteht man die Fähigkeiten und
+
+Info-Kasten 2
+
+Info-Kasten 3
+
+Kann man bei Bildung
+eigent­lich von „Erfolg“ sprechen und kann man diesen
+messen?
+
+Wie messbar wird BNE mit
+dieser Hand­reichung?
+
+Wenn Bildung letztlich im Individuum stattfindet,
+gestalten Lehrende mit ihrem Bildungsangebot
+lediglich einen Rahmen, innerhalb dessen sich
+Lehrende und Lernende dialogisch begegnen.
+Meist wird dabei auf allen Seiten gelernt. Was ist
+„Erfolg“ bei einem so offenen Bildungsverständnis? Die oben schon angesprochene Vereinbarung
+von Zielen ist die Grundlage für die Bestimmung
+des Erfolgs. Darauf aufbauende Ergebniskriterien
+ermöglichen eine vergleichbare Überprüfung, die
+allerdings davon abhängt, welche Kriterien zu
+Grunde liegen. Eine vollständige Objektivität kann
+es demnach nicht geben. Zusätzlich zum Ergebnis
+kann auch dem Bildungsprozess an sich gute oder
+schlechte Qualität attestiert werden.
+
+Fertigkeiten, Probleme zu lösen, wozu
+auch die Bereitschaft gehört, in verschiedenen Situationen angemessen zu
+handeln (Weinert 2001: 27). Dies setzt
+wiederum die Aneignung entsprechender Werte und Einstellungen voraus
+(vgl. Stoltenberg 2005: 1). Der Begriff
+der Kompetenz betont also, dass es bei
+Bildung letztendlich um die Entwicklung der Persönlichkeit geht und damit
+um verantwortungsvolles gesellschaftliches Handeln3.
+In den Ausführungen zu den im Folgenden erläuterten zehn Qualitätskriterien kommt das oben beschriebene Spannungsfeld zum Ausdruck: Die Kriterien
+an sich sind eher kompetenzorientiert,
+gleich­zeitig sind die Vorschläge, die zur
+Bewertung gemacht werden, eher lernzielorientiert (siehe Kapitel 5). Dies ist
+der konsequenten Ausrichtung auf die
+praktische Anwendbarkeit geschuldet.
+Wichtig ist daher, die grundsätzliche
+Orientierung der Bildungsarbeit am Ziel
+von BNE beizubehalten: Menschen zu
+befähigen, ihre Zukunft und die Gesellschaft im Sinne nachhaltiger Entwick-
+
+Die Qualitätskriterien (siehe Tabelle in Kapitel 5)
+führen nachvollziehbar aus, welche Aspekte zentral
+für die Fortbildung von BNE-Multiplikatoren sind.
+Wenngleich diese Qualitätskriterien im Verlauf der
+Fortbildung alle beachtet werden sollten, schreiben
+sie doch keine genaue Vorgehensweise vor. Sie
+sind außerdem keine Indikatoren. Von Indikatoren
+spricht man erst, wenn das Erfüllen von Kriterien
+genau gemessen werden kann (di Giulio et al.
+2011: 15). In der Tabelle zu den Qualitätskriterien
+dieser Handreichung finden sich vielmehr Hinweise darauf, wie festgestellt werden kann, ob die
+Kriterien erfüllt sind. Diese Hinweise sind vor allem
+als Anregung zu verstehen, die eigene Fortbildung
+weiter zu entwickeln.
+
+lung mitzugestalten. Dieser Anspruch
+sollte sich wie ein roter Faden durch die
+Vorbereitung und Durchführung von
+BNE-orientierten Bildungsangeboten
+ziehen.
+
+1	Die Lernorientierte Qualitätstestierung in
+der Weiterbildung (LQW) richtet sich an
+Weiterbildungseinrichtungen und bietet
+eine umfassende Qualitätsentwicklung
+an, die mit einem Zertifikat für die Einrichtung abschließt. Es wird darauf Wert
+gelegt, dass jede Aktivität der Einrichtung
+darauf ausgerichtet ist, gelingendes Lernen für die Teilnehmer zu ermöglichen.
+Außerdem wird die Qualitätsentwicklung
+als ein kontinuierlicher Weiterentwicklungsprozess gesehen (vgl. Zech 2008b).
+Die Zertifizierung von Bildungsträgern in
+Schleswig-Holstein ist ein Praxisbeispiel,
+das sich eng am Konzept von LQW orientiert und es auf BNE ausrichtet (vgl. NUN
+2011).
+2	Der „BNE-Generator“ vereint auf sehr
+systematische Weise a) Ansprüche
+verschiedener Lerntypen, b) zentrale
+Inhalte des Leitbildes einer nachhaltigen
+Entwicklung und c) die Teilkompetenzen
+der Gestaltungskompetenz als pädagogischen Aspekt der BNE (vgl. stratum o.J.).
+3	Ein anschauliches Beispiel dafür ist:
+Lernziel: Die Teilnehmer können die
+Dimensionen Ökologie, Ökonomie und
+Soziales erklären.
+Kompetenz: Die Teilnehmer erweitern
+ihre Fähigkeit, für gesellschaftliche Probleme unter Berücksichtigung der drei
+Dimensionen Ökologie, Ökonomie und
+Soziales Lösungsansätze zu finden.
+
+11
+
+Zehn Kriterien für Qualität
+
+4. Erläuterungen zu den ausgewählten
+Qualitätskriterien
+Für die Fortbildung von BNE-Multiplikatoren im außerschulischen Bereich wurden zehn Qualitäts­
+kriterien ausgewählt, die sich in die drei Gruppen Nachhaltigkeitsverständnis, eigene Haltung und
+Didaktik gliedern lassen und folgende Punkte abdecken:
+
+Info-Kasten 4
+Die zehn Qualitätskriterien im Überblick:
+1) Natur als Lebensgrundlage
+2)	Idee weltweit gleichwertiger Lebensund Gestaltungs­möglichkeiten
+3)	Verantwortung gegenüber künftigen
+Generationen
+4)	Ökonomische, ökologische und soziale
+Aspekte zusammenführen
+5)	Lebensgestaltung im Sinne nachhaltiger
+Entwicklung greifbar machen
+
+6)	Zwischen Bewahren und Verändern
+abwägen, um zukunftsfähig zu entscheiden
+7) Eigene Haltungen hinterfragen
+8) Lernen begleiten und Beteiligung ermöglichen
+9)	Aus einer Methodenvielfalt Geeignetes
+auswählen
+10) Informationen kritisch bewerten
+
+Nachhaltigkeitsverständnis:
+1) Natur als Lebensgrundlage
+2)	Idee weltweit gleichwertiger Lebens- und Gestaltungsmöglichkeiten
+3) Verantwortung gegenüber künftigen Generationen
+4)	Ökonomische, ökologische und soziale Aspekte
+zusammenführen
+
+Die inhaltlichen Punkte, also die
+ersten vier Kriterien, bilden das
+der Tabelle zu Grunde liegende
+Nachhaltigkeitsverständnis ab.
+Sie lassen sich aus der in Kapitel
+2 dargestellten Brundtland-Definition ableiten.
+Kriterium 1:
+Natur als Lebensgrundlage
+Es wird von der Einbettung des Menschen in die Natur ausgegangen (Fachbegriff: Retinität, SRU 1994: 54f.). Bewusst wird dabei nicht von „Umwelt“
+gesprochen um zu betonen, dass die
+Natur nicht nur eine umgebende Kulisse ist, die vom Menschen beherrscht
+
+12
+
+werden kann. Vielmehr hängen unsere
+Lebens­qualität und die Lebensqualität
+nachfolgender Generationen existentiell
+von der Natur und ihren Prozessen ab.
+Das Verständnis von Natur als Lebensgrundlage und der schonende Umgang
+mit ihr sind folglich eine Voraussetzung
+für gerechte Lebens- und Gestaltungsmöglichkeiten.
+Kriterium 2:
+Idee weltweit gleichwertiger Lebensund Gestaltungsmöglichkeiten
+BNE in Fortbildungen einzubeziehen
+bedeutet, auch den Aspekt der weltweiten Gerechtigkeit zu behan­deln. Die
+gerechte Verteilung von Gütern und
+Chancen zwischen den heute lebenden
+Menschen wird als unverzichtbarer Bestandteil einer nachhaltigen Entwicklung und somit von BNE angesehen.
+Dabei geht es vor allem um die Frage,
+inwieweit eigenes Handeln im Lebensund Arbeitsalltag die Lebens- und Gestaltungsmöglichkeiten anderer Menschen positiv oder negativ beeinflusst.
+Diese Verbindungen aufzuzeigen und
+gemeinsam über Lösungsmöglichkeiten
+nachzudenken, ist Anspruch der BNE.
+
+Kriterium 3:
+Verantwortung gegenüber künftigen
+Generationen
+Ergänzt wird dieser Punkt durch den
+dritten zentralen inhaltlichen Aspekt:
+Gerechte Verteilung von Gütern und
+Chancen auch gegenüber künftigen Generationen. Aller­dings wissen wir wenig
+über die Bedürfnisse künftiger Generationen. Daher ist es essentiell, dass nicht
+unser heutiger Lebensstil, sondern die
+heutigen Möglichkeiten, sich zu entfalten, erhalten bleiben sollen (vgl. Grunwald/Kopfmüller 2006: 28f.).
+Kriterium 4:
+Ökonomische, ökologische und
+soziale Aspekte zusammenführen
+Schließlich wird der Anspruch konkretisiert, Aspekte der ökologischen, ökonomischen und sozialen Dimension von
+nachhaltiger Entwicklung zusammenführen zu können. Dabei ist der Erhalt
+der natürlichen Lebens­grundlagen (siehe Kriterium 1) zentral (vgl. Ott/Döring
+2004)1, obgleich alle drei Dimensionen
+angemessen Beachtung finden sollten.
+Aufgabe aller, die BNE in Bildungsangebote aufnehmen möchten, ist es,
+daraus entstehende Konfliktsituationen
+aufzuzeigen, gemeinsam über eigene
+Positionierungen nachzudenken und integrative Lösungsansätze zu entwickeln.
+Zusammengenommen umreißen diese
+ersten vier Kriterien, was mit nachhaltiger Entwicklung gemeint ist, wenn in
+dieser Handreichung von Bildung für
+nachhaltige Entwicklung gesprochen
+wird.
+
+Info-Kasten 5
+Bewusstseinswandel braucht ein Nachdenken über eigene Haltungen
+Nachhaltige Entwicklung wird durch Menschen und ihr Handeln ver­
+wirklicht. Dabei sind sie Teil einer komplexen Gesellschaft, die Haltungen und Handeln prägt. Es ist daher oft herausfordernd, nicht-nachhaltige Haltungen zu hinterfragen und entsprechend zu handeln. Wer BNEMultiplikatoren fortbildet, übernimmt bei diesem Prozess eine wichtige
+Mittlerrolle. In diesem Zusammenhang sind die eigene Bereitschaft der
+Fortbildner zur Selbstreflexion und der Wille zu angemessenen Veränderungen von Bedeutung. Dabei geht es nicht zwangsläufig um vorbildliches Handeln, sondern eher um eine Auseinandersetzung mit den
+Herausforderungen, denen ein solches Handeln gegenübersteht.
+Eine ausführlichere Zusammenstellung zur Reflexion der eigenen
+Haltung von Anbietern von Fortbildungen findet sich auf den Internetseiten der Dekade-AG „Außerschulische Bildung“ (AG Außerschulische
+Bildung 2011).
+
+Über die eigene Haltung:
+5)	Lebensgestaltung im Sinne nachhaltiger Entwicklung greifbar
+machen
+6)	Zwischen Bewahren und Verändern abwägen, um zukunfts­
+fähig zu entscheiden
+7) Eigene Haltungen hinterfragen
+
+Die drei folgenden Kriterien
+beschäftigen sich mit der Frage,
+an welchen Stellen man sich als
+Anbieter von Fortbildungen über
+seine eigene Haltung bewusst
+werden sollte. Dies ist ein wichtiger Schritt, um eine Anbindung
+an den eigenen Lebens- und
+Arbeitsalltag sowie den der
+Teilnehmer zu ermöglichen. Die
+Reflexion über eigene Leitbilder
+und die anderer Menschen ist ein
+zentraler Ausgangspunkt für die
+Qualitätskriterien.
+Kriterium 5:
+Lebensgestaltung im Sinne nachhaltiger Entwicklung greifbar machen
+Lebensgestaltung im Sinne nachhaltiger Entwicklung greifbar zu machen,
+
+1	Es wird bisweilen auch eine Gleichberechtigung der Dimensionen vertreten
+(z.B. in der Nachhaltigkeitsstrategie der
+EU) – wobei dafür die Begründung in
+konkreten Konfliktfällen schwer fällt. Es
+besteht der Verdacht, dass die Gleichbehandlung der Dimensionen vor allem
+wegen der aufgewerteten Stellung der
+wirtschaftlichen Dimension vertreten
+wird (vgl. SRU 2002: 68).
+
+13
+
+Zehn Kriterien für Qualität
+
+gelingt besonders über anschauliche
+Beispiele. Es ist Aufgabe für die Anbieter von Fortbildungen, für Multiplikatoren und später auch für Teilnehmer an
+Bildungsveranstaltungen, Aspekte der
+nachhaltigen Entwicklung auf den ganz
+konkreten Lebens- und Arbeitsalltag
+zu beziehen. Dafür kann gemeinsam
+überlegt werden, wie eine solche Lebensgestaltung trotz gesellschaftlicher
+Widerstände umsetzbar ist bzw. wie mit
+solchen Widerständen konstruktiv umzugehen ist.
+Kriterium 6:
+Zwischen Bewahren und Verändern
+abwägen, um zukunftsfähig zu
+entscheiden
+Da wir gegenwärtig nicht nachhaltig leben, bedeutet BNE auch eine Bildung
+zur Veränderung – sowohl im persönlichen Handeln als auch für Bereiche wie
+Politik und Wirtschaft. Veränderung
+ist aber nicht immer mit dem gleich zu
+setzen, was in unserer Gesellschaft unter „Innovation“ verstanden wird, und
+sie ist nicht per se nachhaltig. Insofern
+bedarf es der Kompetenz, abwägen zu
+
+können, welche Verhaltensweisen aus
+unterschiedlichen Epochen und Kulturzusammenhängen einer nachhaltigen
+Entwicklung dienen. Und es muss hinterfragt werden, wo Althergebrachtes
+zukunftsfähige Entscheidungen eher
+behindert.
+Kriterium 7:
+Eigene Haltungen hinterfragen
+Die Gestaltung der Zukunft im Sinne
+einer nachhaltigen Entwicklung erfordert eine Verständigung von Menschen
+über unterschiedliche Leitbilder hinweg.
+Dass dies mit Herausforderungen verbunden ist, wird schon im alltäglichen
+Handeln bewusst. Diese Herausforderungen nehmen noch zu, wenn es sich
+– wie in einer offenen Gesellschaft – um
+verschiedene kulturelle Leitbilder handelt oder wenn diese Leitbilder – wie
+weltweit – sehr unterschiedliche Wertvorstellungen abbilden. Eigene Haltungen hinterfragen zu können, öffnet das
+Bewusstsein dafür, andere Leitbilder zu
+achten und zu verstehen, und so dem
+Ziel einer nachhaltigen Entwicklung
+gemeinschaftlich näher zu kommen.
+
+Didaktische Gesichtspunkte:
+8) Lernen begleiten und Beteiligung ermöglichen
+9) Aus einer Methodenvielfalt Geeignetes auswählen
+10) Informationen kritisch bewerten
+
+Die Kriterien 8 bis 10 beleuchten,
+welche didaktischen Gesichtspunkte für Fortbildungen im
+Sinne einer BNE wesentlich sind.
+Damit ist gemeint, wie Inhalte
+aufbereitet werden und mit
+welchem (Selbst-)Verständnis
+Fortbildungen konzipiert und
+durchgeführt werden. Es geht
+hier also um die praktische
+Umsetzung der Methodik der
+BNE (siehe Kapitel 3).
+
+14
+
+Kriterium 8:
+Lernen begleiten und Beteiligung
+ermöglichen
+Lernen zu begleiten, bedeutet nicht zu
+lehren, sondern die Teilnehmer beim
+Lernen zu unterstützen und Beteiligung
+zu ermöglichen und zu fördern. Das
+heißt, den Einzelnen wertschätzend zu
+begegnen und sowohl auf ihren Lernbedarf als auch auf ihr Lernverhalten
+möglichst individuell einzugehen. Die
+Teilnehmer haben zudem die Möglichkeit und die Verantwortung, „ihre“
+Bildungsveranstaltung mit zu gestalten.
+Lernen begleiten heißt auch, an der Lebenswelt der Teilnehmer anzuknüpfen
+und dadurch viele individuelle Zugän-
+
+Foto: © Leuchtpol gGmbH
+
+Experiment in der Lernwerkstatt: Eine Teilnehmerin testet die Eigenschaften von Wärme und ihrer Leitfähigkeit aus.
+
+ge zum Thema zu ermöglichen. Diese
+Grundhaltung trägt dazu bei, dass sich
+die Anbieter von Fortbildungsveranstaltungen für Multiplikatoren als „Lernmoderatoren“ begreifen und diese Einstellung durch die Gestaltung des Bildungsprozesses weitergeben.
+Kriterium 9:
+Aus einer Methodenvielfalt
+Geeignetes auswählen
+Lernen auf die Bedürfnisse der Teilnehmer abstimmen zu können, setzt zum
+einen ein breites Repertoire an vorzugsweise dialogischen Methoden voraus.
+Zum anderen braucht es aber auch die
+Fähigkeit, jene Methoden auszuwählen,
+die der jeweiligen Situation angemessen
+sind. Umgekehrt bedeutet das, auf „bewährte“ Methoden zu verzichten, wenn
+sie den Bedürfnissen der Teilnehmer in
+ihrer Lernsituation nicht gerecht werden. Für routinierte Fortbildner besteht
+hierin oft die größere Herausforderung.
+Grundsätzlich geht es darum, dass die
+Methode ein Mittel ist – kein Selbstzweck – und dass daher vor der Auswahl der Methode auch die Frage beantwortet werden sollte, welcher Inhalt mit
+welchem Ziel behandelt werden soll. Im
+
+BNE-Prozess ist die Methodenauswahl
+insofern nicht von vornherein festgelegt.
+Sie ergibt sich erst aus dem Verlauf der
+Veranstaltung.
+Kriterium 10:
+Informationen kritisch bewerten
+Bei diesem Kriterium geht es darum,
+Wissen einordnen und fruchtbar machen
+zu können. Dabei ist zu berücksichtigen,
+dass heute gültiges Wissen in Zukunft
+ergänzt oder anders bewertet werden
+wird. Gerade die komplexen Themen
+nachhaltiger Entwicklung zeigen dies
+und machen es nötig, qualifiziert mit
+Informationen umgehen zu können. Das
+bedeutet, aus der Fülle der verfügbaren
+Informationen diejenigen auswählen zu
+können, die die im Raum stehenden Fragen tatsächlich beantworten. Dabei ist
+es zum einen wichtig, deren Tragfähigkeit beurteilen zu können, zum anderen
+aber auch zu erkennen, welches Interesse ggf. hinter den jeweiligen Informa­
+tionen steht.
+
+15
+
+Praxisteil mit Tabellen
+
+5. Die Tabelle für die Praxis
+Die von der AG „Außerschulische Bildung“ erarbeiteten Qualitätskriterien zur Fortbildung von
+BNE-Multiplikatoren sind in einer Tabelle zusammengefasst. Sie darf gerne für die Konzeption von
+Bildungsangeboten kopiert und unter Nennung der Quelle separat genutzt werden.
+
+Info-Kasten 6
+Was hält die Tabelle für mich bereit?
+Spalte 1
+
+Spalte 2
+
+Spalte 3
+
+Spalte 4
+
+Qualitätskriterien
+für BNE in
+Fortbildungen
+
+Vorschläge für
+Inhalte meiner
+Fortbildung
+
+Anregungen zur
+Überprüfung des
+Erfolgs
+
+Hinweise für
+die methodische
+Umsetzung
+
+Die erste Spalte der Tabelle beantwortet die Frage: „Was sollen die Multiplikatoren
+am Ende der Fortbildung können?“ Es werden die Kriterien aufgeführt, die für die
+Fortbildung von BNE-Multiplikatoren im außerschulischen Bereich zentral sind.
+Viele der Kriterien sind in heutigen Fortbildungskonzepten schon enthalten bzw.
+umgesetzt – die zehn Qualitätskriterien sollen nicht nur zur weiteren Reflexion und
+zu neuen Perspektiven einladen, sondern auch dazu, perspektivisch alle Kriterien
+gleichermaßen zu beachten.
+In der zweiten Spalte der Tabelle werden diese zehn Kriterien für die Durchführung
+von Fortbildungen über die Frage konkretisiert: „Wie kann ich das fassbar machen?“.
+Die angeführten Erläuterungen dienen somit dazu, das Verständnis für die in der
+ersten Spalte formulierten Ziele zu vertiefen und Möglichkeiten der Umsetzung in
+der Fortbildung aufzuzeigen.
+Die dritte Spalte der Tabelle bietet Anhaltspunkte für eine Bewertung, ob die Ziele
+aus Spalte 1 erreicht wurden („Wie stelle ich fest, wie gut es gelungen ist?“). Es
+handelt sich dabei um Eckpunkte zur Orientierung: Je nach Fortbildungskonzept,
+Ausbildungsstand der Fortbildner oder Bedürfnissen der Multiplikatoren kann es
+Abwandlungen geben.
+Besonders die vierte Spalte ist exemplarisch angelegt und stellt Beispiele aus der
+Praxis für die methodische Umsetzung vor („Wie setzen Multiplikatoren das methodisch um?“). Die Beispiele sind zur Veranschaulichung auf das jeweilige Qualitätskriterium fokussiert, obwohl die Kriterien in der Bildungspraxis kaum losgelöst
+voneinander betrachtet werden können. Die Vielfalt der Beispiele macht deutlich,
+auf wie vielen Wegen in der außerschulischen Bildung BNE umgesetzt werden kann
+– methodische Beispiele sind so verschieden und phantasievoll wie die Menschen,
+die die Bildungsange­bote durchführen! Gute Methoden beleuchten ein Thema aus
+unterschiedlichen Perspektiven und folgen dabei dem Grundsatz, die Menschen
+einzubeziehen und aktiv werden zu lassen.1
+
+16
+
+Info-Kasten 7
+Hintergrund zum Bewertungsansatz für die Qualitätskriterien
+Ob die Ziele der Qualitätskriterien während der Fortbildung erreicht werden konnten, ist eine Frage der Ergebnisbewertung. Bewusst wird kein objektiv messbares, standardisiertes Prüfverfahren vorgeschlagen, wie es
+z.B. für eine Zertifizierung nötig wäre. Vielmehr obliegt es den Anbietern von Fortbildungen mit BNE-Bezug, die
+Anregungen der Spalte 3 zu nutzen und darüber nachzudenken, wie in der eigenen Fortbildung das Gelingen
+beurteilt werden kann. Dies lässt den nötigen Raum, verschiedenen Fortbildungszusammenhängen gerecht zu
+werden, ohne beliebig darin zu sein, was am Ende erreicht werden soll.
+Bei der Konzeption der Kriterien als einfach nutzbare Bewertungshilfen sind Kompromisse unumgänglich. So
+sind in Spalte 3 Lernziele formuliert, die besser zu überprüfen sind als Kompetenzen, Werte oder Einstellungen.
+Gleichzeitig bleibt die Tabelle insgesamt durchzogen vom grundsätzlichen Anspruch, mit den Bildungsangeboten die Fähigkeit der Teilnehmer zu fördern, Zukunft zu gestalten. Dies kann mit einer Grundhaltung im Sinne
+einer respektvollen Lernbegleitung (Kriterium 8) auch erzielt werden: Macht man sich diese Haltung zu eigen,
+markieren Lernziele nicht ein allein richtiges Bildungsergebnis, sondern sie bieten Orientierung auf dem Weg
+zur individuellen Entfaltung von Gestaltungskompetenz.
+
+Foto: © Leuchtpol gGmbH
+
+Gemeinsamer Einstieg: In der Gruppe werden komplexe Themen wie Mobilität,
+Licht und Ernährung gemeinsam erschlossen.
+
+1	Im Quellenverzeichnis unter „Quellen zu
+Methodenbeispielen der Kriterientabelle“
+findet sich auch eine Übersicht zusätzlicher Methodensammlungen.
+
+17
+
+Praxisteil mit Tabellen
+
+Die Tabelle für die Praxis
+
+Info-Kasten 8
+Kurz-Info: Qualitätskriterien für die Fortbildung von
+BNE-Multiplikatoren
+Wann ist meine Fortbildung so gestaltet, dass sie den Grundsätzen einer Bildung für nachhaltige Entwicklung
+(BNE) entspricht? Wie kann ich feststellen, ob meine Veranstaltung für die Multiplikatoren, die selbst einmal BNE vermitteln möchten, eine gelungene Fortbildung war? Vor dem Hintergrund dieser Fragen sind die
+nachfolgenden Qualitätskriterien formuliert und erläutert, auf ihre Erfüllbarkeit hin geprüft und mit praktischen
+Beispielen versehen.
+Die folgende Tabelle ist das Ergebnis einer intensiven Diskussion. Sie soll denen, die im außerschulischen
+Bereich BNE-Multiplikatoren fortbilden, Qualitätskriterien an die Hand geben, an denen sie ihre Fortbildungen
+ausrichten können. Die Qualitätskriterien sind ergebnisorientiert formuliert, so dass sie beschreiben, was die
+Multiplikatoren am Ende der Veranstaltung können sollen.
+Nach der Fortbildung sollen die Multiplikatoren in der Lage sein, BNE selbständig in ihre Bildungsangebote zu
+integrieren. Mit diesem übergeordneten Ziel ist die nachfolgende Tabelle zu lesen. Zusätzlich bietet die dritte
+Spalte Anhaltspunkte für die Überprüfung des Lernerfolgs durch die Fortbildner oder durch die teilnehmenden
+Multiplikatoren. Die Beispiele für die methodische Umsetzung in Spalte 4 dienen der Veranschaulichung und sollen darüber hinaus zur Auswahl geeigneter Methoden anregen. Die Beispiele sollen keinesfalls als „die richtigen
+Methoden“ angesehen werden. Der angegebene Kontext zeigt an, in welchem Zusammenhang das Beispiel
+eingesetzt wird und lädt dazu ein, es auch in anderen Kontexten auszuprobieren.
+
+Foto: © Leuchtpol gGmbH
+
+Was hält am längsten warm? Thema sind die verschiedenen Stoffe und Materialien in den Boxen vorne im Bild.
+
+18
+
+2. Die Multiplikatoren
+tragen die Idee weltweit
+gleichwertiger Lebensund Gestaltungschancen für alle Menschen
+weiter und können dazu
+anregen, daraus Schlüsse für den eigenen Lebens- und Arbeitsalltag
+zu ziehen.
+
+• Ich sammle gemeinsam mit
+der Gruppe Beispiele für das
+eigene Eingebundensein in
+die Natur und stelle in diesem Zusammenhang die Bedeutung des Erhalts der natürlichen Lebensgrundlagen
+für den Menschen heraus.
+
+1. Die Multiplikatoren
+verstehen sich als Teil
+der Natur, wissen um
+ihre Bedeutung als
+Lebensgrundlage und
+können dazu anregen,
+daraus Schlüsse für den
+eigenen Lebens- und
+Arbeitsalltag zu ziehen.
+
+• Gemeinsam mit der Gruppe
+suche ich nach Möglichkeiten,
+Bezüge zum Lebens- und Arbeitsalltag ihrer zukünftigen
+Teilnehmer herzustellen.
+
+• Ich sammle gemeinsam mit
+der Gruppe Beispiele dafür,
+wie globale Gerechtigkeit
+gelingt bzw. nicht gelingt und
+arbeite Bedingungen für das
+Gelingen heraus.
+
+• Gemeinsam mit der Gruppe
+entwickle ich Ideen, diese
+Aspekte auf den Lebens- und
+Arbeitsalltag ihrer zukünftigen Teilnehmer zu beziehen.
+
+Was kann ich tun, um das
+fassbar zu machen?
+
+Was sollen die Multiplikatoren am Ende der
+Fortbildung können?
+
+Die Multiplikatoren können an einem konkreten
+Beispiel aus dem thematischen Umfeld ihrer
+Teilnehmer zeigen, wie
+diese selbst in ihrem Lebens- und Arbeitsalltag
+dazu beitragen können,
+die weltweite Ungleichverteilung von Gütern
+oder Chancen abzubauen.
+
+Die Multiplikatoren können an einem konkreten
+Beispiel aus dem Lebens- und Arbeitsalltag
+ihrer Teilnehmer deutlich machen, dass der
+Mensch Teil der Natur
+ist. Sie können dabei
+jeweils eine Verhaltensweise aufzeigen, die
+dem Erhalt der natürlichen Lebensgrundlagen
+mehr bzw. weniger
+gerecht wird.
+
+Wie stelle ich fest, wie
+gut es gelungen ist?
+
+©DUK/AG „Außerschulische Bildung“ der UN-Dekade „Bildung für nachhaltige Entwicklung“
+
+Beispiel aus Fortbildungen für Erzieher (Leuchtpol)
+
+In der Auswertung werden die realen Zahlen genannt. Die Teilnehmer kommen ins Gespräch über Verteilungsgerechtigkeit,
+deren Ursachen und Konsequenzen. Welche Alternativen führen
+zu einer gleichberechtigten Verteilung? Fragen zum eigenen
+Lebensstil und seinen globalen Auswirkungen unterstützen die
+Reflexion.
+
+Wie die Ressourcennutzung weltweit verteilt ist, reflektiert die
+kurze Aktivität „Wir spielen Welt“ (Führing o. J.). Dabei steht die
+gesamte Seminargruppe für die Weltbevölkerung. Die Kontinente sind durch Schilder im Raum ausgewiesen. Die Teilnehmer
+schätzen die Bevölkerungsdichte und verteilen sich entsprechend auf die angedeuteten Kontinente. Mit symbolischen
+Spielelementen (Geldtaler, Luftballons) schätzen sie Einkommen
+und Energieverbrauch ein. Wie viel Einkommen steht jedem
+Kontinent zur Verfügung? Wie viel Energie wird verbraucht? Wie
+stehen diese Größen im Verhältnis zur Bevölkerungsdichte? Die
+Visualisierung verdeutlicht, wie ungleich Ressourcen und damit
+Lebenschancen verteilt sind. Die persönlichen Vorstellungen zu
+globalen Zusammenhängen werden sichtbar.
+
+Beispiel aus der Jugendarbeit
+
+Am Beispiel der Fischereiwirtschaft, zu dem die Teilnehmer in
+Gruppen Informationsmaterial sammeln, wird deutlich, dass ein
+kurzfristiger Gewinn für wenige Menschen eine natürliche Ressource schnell und unwiederbringlich für alle verbrauchen kann.
+Mit dem computergestützten Planspiel „Fischereiwirtschaft
+– alles nur ein Spiel?“ (EED/Brot für die Welt 2009) können die
+Teilnehmer erfahren, dass von allen getragene Lösungen erarbeitet werden müssen. Zudem können sie reflektieren, was die
+Überfischung in den Weltmeeren mit ihnen selbst zu tun hat.
+
+Wie setzen Multiplikatoren das methodisch um?
+
+Die Tabelle für die Praxis: Teil 1
+
+Qualitätskriterien für die Fortbildung von Multiplikatoren
+
+19
+
+20
+
+4. Die Multiplikatoren
+können vor dem Hintergrund der Gerechtigkeit
+gegenüber anderen
+Menschen und künftigen Generationen ökologische, ökonomische
+und soziale Aspekte
+zusammenführen.
+
+• Ich denke gemeinsam mit
+der Gruppe darüber nach,
+welche Bedürfnisse erfüllt
+sein müssen, damit ein
+menschenwürdiges Leben
+möglich ist.
+
+3. Die Multiplikatoren
+sehen sich in der Verantwortung gegenüber
+künftigen Generationen
+und können dazu anregen in diesem Sinne zu
+denken und zu handeln.
+
+• Gemeinsam mit der Gruppe
+suche ich nach Beispielen,
+wo diese Zusammenschau
+den Lebens- und Arbeitsalltag ihrer zukünftigen
+Teilnehmer unmittelbar
+berührt.
+
+• Ich unterstreiche die Notwendigkeit der Zusammenschau der unterschiedlichen
+Aspekte und sammle gemeinsam mit der Gruppe Beispiele
+für Wechselwirkungen zwischen dem Erhalt unserer natürlichen Lebensgrundlagen,
+ihrer schonenden Nutzung
+und einer gerechten Verteilung im weltweiten Maßstab.
+
+• Ich prüfe gemeinsam mit
+der Gruppe verantwortbare Handlungsoptionen aus
+dem eigenen Lebens- und
+Arbeitsalltag sowie aus dem
+ihrer Teilnehmer.
+
+• Ich sammle mit der Gruppe
+Beispiele, die deutlich machen, dass unser heutiger
+Lebensstil die Möglichkeiten
+künftiger Generationen einschränkt, ihre Bedürfnisse zu
+erfüllen.
+
+Was kann ich tun, um das
+fassbar zu machen?
+
+Was sollen die Multiplikatoren am Ende der
+Fortbildung können?
+
+Die Multiplikatoren können mit einem konkreten Beispiel aus ihrem
+eigenen Lebens- und
+Arbeitsalltag die Wechselwirkungen zwischen
+den ökologischen, ökonomischen und sozialen
+Aspekten anschaulich
+machen. Dabei zeigen
+sie, wie wirtschaftliche
+Belange den Erhalt
+unserer natürlichen
+Lebensgrundlagen und
+die gerechte Verteilung
+im weltweiten Maßstab
+beeinflussen.
+
+Bildung ist auf Zukunft gerichtet. In Seminaren der politischen
+Jugendbildung geht es in vielfältiger Weise um dieses Thema:
+um die berufliche Zukunft der Jugendlichen, um die Zukunft
+der demokratischen Gesellschaft oder der Weltgesellschaft. Die
+Jugendlichen erarbeiten gemeinsam, welche Entwicklungen den
+Prämissen der Nachhaltigkeit entsprechen, und sie stellen ihre
+eigenen Wünsche und Gedanken in einen größeren Zusammenhang.
+
+Die Multiplikatoren können an einem konkreten
+Beispiel aus dem thematischen Umfeld ihrer
+Teilnehmer zeigen, wo
+eine Handlungsweise
+verändert werden muss,
+weil sie dazu führen
+würde, dass künftige
+Generationen gleichwertige Ansprüche
+nicht mehr befriedigen
+können.
+
+©DUK/AG „Außerschulische Bildung“ der UN-Dekade „Bildung für nachhaltige Entwicklung“
+
+Beispiel aus Fortbildungen für Erzieher (Leuchtpol)
+
+Die abschließende Aufbereitung und kreative Präsentation
+(Werbespot, Pantomime, Rollenspiel …) der Erkenntnisse für die
+Gesamtgruppe fördert die inhaltliche Vertiefung, die Verknüpfung der Themen – und nicht zuletzt die eigene Position.
+
+Nach einem kurzen Input zu den Nachhaltigkeitsdimensionen
+und deren gegenseitigen Abhängigkeiten erarbeiten mehrere
+Kleingruppen Hintergründe zu Konsumgütern, wie z.B. Handy,
+Jeans, Papier, Kaffee. Sie reflektieren ihr eigenes Konsumverhalten und entwickeln alternative Handlungsmöglichkeiten.
+
+Der Kurzfilm „Die Rechnung“ (germanwatch) veranschaulicht,
+wie komplex und vielschichtig das Thema Konsum ist. Er macht
+Wechselwirkungen zwischen persönlichem Handeln und globalen Zusammenhängen greifbar. Der filmische Impuls berührt die
+Teilnehmenden und regt sie zum Nach- und Andersdenken an.
+
+Beispiel aus der Jugendarbeit
+
+In Gedankenspielen versetzen sie sich – wie in Zeitreisen – in
+Lebensgeschichten von Menschen aus verschiedenen Regionen
+zu unterschiedlichen Zeiten der Zukunft: Wie sollen meine Urenkel in 100 Jahren leben? Was muss sich an unserem heutigen
+Umgang mit Natur, an unserem Gesellschaftsbild dafür ändern?
+
+Wie setzen Multiplikatoren das methodisch um?
+
+Wie stelle ich fest, wie
+gut es gelungen ist?
+
+Die Tabelle für die Praxis: Teil 2
+Praxisteil mit Tabellen
+
+• Ich sammle gemeinsam mit
+der Gruppe Beispiele, wie
+der Lebens- und Arbeitsalltag
+nachhaltiger gestaltet werden
+kann. Dabei berücksichtigen
+wir die Bedeutung unserer
+natürlichen Lebensgrundlagen, die Idee weltweit
+gleichwertiger Lebens- und
+Gestaltungschancen, die Verantwortung gegenüber künftigen Generationen und die
+Wechselwirkung zwischen
+ökologischen, ökonomischen
+und sozialen Aspekten.
+
+5. Die Multiplikatoren
+können Lebensgestaltung im Sinne nachhaltiger Entwicklung
+greifbar machen und
+dabei auf Beispiele aus
+dem eigenen Lebensalltag verweisen.
+
+• Gemeinsam mit der Gruppe
+erarbeite ich Beispiele dafür,
+wie das Thema in unterschiedliche Veranstaltungszusammenhänge eingebracht
+werden kann.
+
+• Zudem gebe ich der Gruppe
+Raum, darüber nachzudenken, was Einzelne direkt und
+indirekt dazu beitragen können, und wie Widersprüche
+auszuhalten sind, wenn eine
+nachhaltige Lebensgestaltung an scheinbar unverrückbare Grenzen stößt.
+
+Was kann ich tun, um das
+fassbar zu machen?
+
+Was sollen die Multiplikatoren am Ende der
+Fortbildung können?
+Die Teilnehmer schreiben über die Fortbildung hinweg – und bei
+mehrmaligen Treffen auch zwischen den Veranstaltungen – ein
+Tagebuch, in dem sie ihre Haltungen, Einstellungen und Wünsche bezüglich einer nachhaltigen Entwicklung und deren Verankerung in ihrem eigenen Lebensumfeld notieren. Gleichzeitig
+machen sie sich ihre nicht-nachhaltigen Gewohnheiten bewusst
+und reflektieren deren Bedeutung in ihrem Alltag. Diese Erkenntnisse helfen ihnen, Aspekte ihrer Lebensgestaltung in die
+Fortbildung zu tragen und authentisch zu vertreten und darüber
+ins Gespräch zu kommen. Dabei unterstützen folgende Fragen:
+Welche Werte sind mir wichtig? Wo kann ich, wo will ich Verantwortung übernehmen? Wie groß ist mein Einflussbereich? Was
+kann ich bewirken? Was kann ich nicht allein bewerkstelligen?
+
+Die Multiplikatoren können an einem konkreten Beispiel aus ihrem
+eigenen Lebens- und
+Arbeitsalltag zeigen, wie
+sie eine Möglichkeit gefunden haben, ihr Leben
+trotz möglicherweise
+bestehender Hürden
+nachhaltiger zu gestalten.
+
+©DUK/AG „Außerschulische Bildung“ der UN-Dekade „Bildung für nachhaltige Entwicklung“
+
+Beispiel aus einer außerschulischen Fortbildung
+
+Wie setzen Multiplikatoren das methodisch um?
+
+Wie stelle ich fest, wie
+gut es gelungen ist?
+
+Die Tabelle für die Praxis: Teil 3
+
+Qualitätskriterien für die Fortbildung von Multiplikatoren
+
+21
+
+22
+
+7. Die Multiplikatoren
+können eigene Haltungen hinterfragen und
+sich im Sinne eines achtungsvollen Umgangs
+miteinander auch in
+andere Leitbilder hineinversetzen.
+
+• Gemeinsam mit der Gruppe
+trage ich Beispiele für Veränderungen im Lebens- und
+Arbeitsalltag zusammen, die
+im Sinne einer nachhaltigen
+Entwicklung zukunftsfähig
+sind.
+
+6. Die Multiplikatoren
+können zwischen Bewahren und Verändern
+abwägen, um zukunftsfähig zu ent­scheiden.
+
+• Ich mache deutlich, dass
+BNE als weltweite Initiative
+auch unabhängig vom Wert
+kultureller Vielfalt die Fähigkeit erfordert, sich in Menschen hinein zu versetzen,
+deren Handeln von anderen
+Leitbildern bestimmt wird.
+Hierzu gebe ich Raum für
+einen Austausch.
+
+• Ich arbeite gemeinsam mit
+der Gruppe Beispiele dafür
+heraus, wie sich Vorstellungen aus unterschiedlichen
+Kulturen auf eine nachhaltige
+Entwicklung auswirken.
+
+• Ich sammle gemeinsam mit
+der Gruppe Anregungen aus
+anderen Epochen und Kulturen und rege auf diesem Weg
+zur Auseinandersetzung mit
+dem Spannungsfeld zwischen Bewahren und Verändern an.
+
+Was kann ich tun, um das
+fassbar zu machen?
+
+Was sollen die Multiplikatoren am Ende der
+Fortbildung können?
+
+Die Multiplikatoren
+versetzen sich in drei
+von unterschiedlichen
+Leitbildern getragene
+Menschen. So können
+sie an konkreten Beispielen erläutern, wie
+ein gleicher Sachverhalt
+auf deutlich voneinander abweichende Arten
+gedeutet werden kann.
+
+Der Besuch einer wieder in Betrieb genommenen historischen
+Wassermühle wirft Fragen auf: Was wurde hier bewahrt bzw.
+neu belebt, und wo besteht Veränderungsbedarf, um künftigen
+Ansprüchen besser gerecht zu werden? Über die Schilderung
+des Betreibers kommen die Teilnehmer ins Gespräch. Warum wird die dezentrale Nutzung regenerativer Energien heute
+erneut wichtig? Wie sinnvoll sind stromerzeugende Kleinkraftwerke im Vergleich zu Großprojekten wie in China oder Brasilien
+– und für wen? Wenn es gelingt, solche Fragen in Gang und mit
+den Erfahrungen der Teilnehmer in Beziehung zu setzen, dann
+kann die alte Mühle als Schlüsselphänomen einer Bildung für
+nachhaltige Entwicklung jeweils individuell interpretiert und
+verstanden werden.
+
+Die Multiplikatoren können an zwei konkreten
+Beispielen aus dem Lebens- und Arbeits­alltag
+ihrer Teilnehmer nachhaltiges „Bewahren und
+Verändern“ deutlich machen: Einerseits zeigen
+sie auf, wo eine althergebrachte Wirtschaftsoder Verhaltensweise
+nachhaltiger war als
+eine heutige; andererseits verdeutlichen sie,
+wo es im Interesse der
+Nachhaltigkeit besser
+wäre, Althergebrachtes
+über Bord zu werfen.
+
+©DUK/AG „Außerschulische Bildung“ der UN-Dekade „Bildung für nachhaltige Entwicklung“
+
+Beispiel aus einem museumspädagogischen Angebot
+(Klimahaus Bremerhaven 8° Ost)
+
+Eingebunden in eine museumspädagogische Führung hinterfragen junge Erwachsene ihre Gewohnheiten und ihr Handeln
+bezüglich Konsum, Ernährung und Mobilität. Die Teilnehmer
+stellen in szenischen Standbildern einen klimarelevanten Gewissenskonflikt pantomimisch dar. Durch die kreative, theaterpädagogische Beschäftigung mit klima(un)freundlichem Handeln
+im Alltag wird das Urteilsvermögen der Teilnehmer hinsichtlich
+gesellschaftlicher und persönlicher Werte gefördert. Sie werden angeregt, diese infrage zu stellen und neue Denkweisen
+zu Lebenszielen und -stilen zuzulassen. Als „mündige Weltbürger“ werden sie in die Lage versetzt, eigene Entscheidungen
+zu treffen, Veränderungen zu bewegen und Verantwortung zu
+übernehmen.
+
+Beispiel aus Fortbildungen für Ranger (ParcInterp)
+
+Wie setzen Multiplikatoren das methodisch um?
+
+Wie stelle ich fest, wie
+gut es gelungen ist?
+
+Die Tabelle für die Praxis: Teil 4
+Praxisteil mit Tabellen
+
+23
+
+• Ich mache deutlich, dass
+BNE von einer respektvollen
+Grundhaltung getragen wird.
+Sie ist entsprechend auch
+allen zukünftigen Teilnehmer
+entgegenzubringen. BNEMultiplikatoren begleiten
+daher das Lernen eher, als
+dass sie belehren.
+
+8. Die Multiplikatoren
+können Lernen begleiten und Beteiligung
+ermöglichen, indem sie
+den Einzelnen respektvoll begegnen, auf ihre
+Bedürfnisse eingehen
+und die Inhalte der Fortbildung an ihrer Lebenswelt ausrichten.
+
+• Ich bitte um eine Rückmeldung, inwieweit ich selbst
+diesem Anspruch gerecht
+werde.
+
+• Gemeinsam mit der Gruppe
+erarbeite ich anhand von
+Beispielen aus ihren Veranstaltungen mögliche Wege,
+weg von belehrenden und
+hin zu begleitenden Ansätzen,
+bei denen die Beteiligung der
+Teilnehmer im Vordergrund
+steht.
+
+Was kann ich tun, um das
+fassbar zu machen?
+
+Was sollen die Multiplikatoren am Ende der
+Fortbildung können?
+Natur bietet viele Lernanlässe: Die Idee der NaturparkEntdecker­westen für Jugendliche ist es, auf eigene Faust, ausgestattet mit allen wichtigen Exkursionsmaterialien, Natur zu
+entdecken. Dabei werden sie von Exkursionsleitern begleitet
+und unterstützt.
+
+Die Multiplikatoren
+stellen eine Einheit für
+ihre Fortbildungspraxis
+vor, die nicht belehrend
+wirkt, sondern bei der
+sie die Teilnehmer in
+einem möglichst eigenständigen Bildungsprozess begleiten.
+
+©DUK/AG „Außerschulische Bildung“ der UN-Dekade „Bildung für nachhaltige Entwicklung“
+
+Beispiel aus dem Bildungsangebot des Verbands
+Deutscher Naturparke
+
+Die Teilnehmer gehen somit selbstbestimmt auf Entdeckungsreise im Naturpark und entscheiden individuell, welche Exkur­
+sionsmaterialien (Becherlupe, Bestimmungshilfen, Kompass
+etc.) sie wie dazu einsetzen. Sie finden ihr individuelles Tempo
+und Thema. Die Exkursionsleiter greifen die Impulse auf, fragen
+nach und stellen weitergehende thematische Beziehungen her.
+Sie unterstützen einen offenen Lernprozess. Die Teilnehmer
+werden zum selbstständigen Lernen und Forschen angeregt.
+
+Wie setzen Multiplikatoren das methodisch um?
+
+Wie stelle ich fest, wie
+gut es gelungen ist?
+
+Die Tabelle für die Praxis: Teil 5
+
+24
+
+10. Die Multiplikatoren
+können sich zu BNE und
+Schlüsselthemen nachhaltiger Entwicklung
+selbst weiter informieren und diese Informationen kritisch bewerten.
+
+• Gemeinsam mit der Gruppe
+sammle und erprobe ich unterschiedliche Lernmethoden,
+die die Teilnehmer motivieren und ihnen die Möglichkeit
+geben, die Bildungsprozesse
+selbst mit zu gestalten.
+
+9. Die Multiplikatoren
+können für unterschiedliche Fortbildungssituationen aus einer Methodenvielfalt Geeignetes
+auswählen, um das
+Lernen positiv und motivierend zu gestalten.
+
+• Ich fordere die Gruppe zu
+eigenen Recherchen auf, unterstütze sie dabei und werte
+das recherchierte Material
+mit ihnen gemeinsam aus.
+
+• Ich zeige unterschiedliche
+Zugänge zu Materialien auf,
+in denen man sich über BNE
+und Schlüsselthemen nachhaltiger Entwicklung wie
+z.B. Energie, Mobilität oder
+biologische Vielfalt informieren kann.
+
+• Die Sammlung stelle ich
+der Gruppe im Nachgang zur
+Verfügung.
+
+• Aus der Fortbildung heraus
+stelle ich gemeinsam mit
+der Gruppe eine Sammlung
+von Beispielen zusammen,
+diskutiere ihre Vorzüge und
+Nachteile und bitte um Ergänzungsvorschläge aus dem
+Kreis der Gruppe.
+
+Was kann ich tun, um das
+fassbar zu machen?
+
+Was sollen die Multiplikatoren am Ende der
+Fortbildung können?
+
+Die Multiplikatoren
+zeigen für ein konkretes
+Thema aus ihrer Fortbildungspraxis drei Informationsquellen auf, die
+von unterschiedlichen
+Absichten getragen
+werden. Sie können außerdem daran deutlich
+machen, welche Interessen jeweils dahinter
+stehen.
+
+Flexible Gestaltung ist gefragt: Wie geht es nach einer Präsentation zu den Unterschieden zwischen ökologischer und konventioneller Landwirtschaft weiter? Die Einheit, die nun folgen sollte,
+passt nicht zu den Bedürfnissen der Teilnehmer: Sie sollten in
+Kleingruppen anhand eines Textes, Aufgaben und Nutzen von
+Natur herausarbeiten. Die Luft ist raus! Alternativ bittet die
+Kursleitung die Teilnehmer für eine festgesetzte Zeit über das
+Hofgelände zu streifen und einen Gegenstand mitzubringen, der
+für sie das Wesen von Natur symbolisiert. Während der Kurzvorstellung der Fundstücke wird auf Moderationskarten gesammelt,
+was für den Einzelnen Natur bedeutet. Dies wird mit „Natur ist
+unsere Lebensgrundlage“ überschrieben. Die Teilnehmer sind
+wieder voll bei der Sache und wenden sich in einer nächsten
+Aufgabe den Streuobstwiesen zu – ganz wie vorgesehen.
+
+Die Multiplikatoren können an einem konkreten
+Beispiel aus der Fortbildungspraxis mit ihren
+Teilnehmern zeigen, wie
+sie drei unterschiedliche
+Methoden so in einer
+Einheit einsetzen, dass
+diese zu einem positiven Bildungserlebnis
+wird.
+
+©DUK/AG „Außerschulische Bildung“ der UN-Dekade „Bildung für nachhaltige Entwicklung“
+
+Beispiel aus einem museumspädagogischen Angebot
+(Klimahaus Bremerhaven 8° Ost)
+
+Die Verbindung von mindestens zwei methodisch verschiedenen
+Informationswerkzeugen hilft den Teilnehmern das komplexe
+Thema Klima und Klimawandel zu erfassen. Um zu einer kritischen Beurteilung zu kommen, hilft es, zu fragen, welche wirtschaftlichen und/oder politischen Interessen hinter Aussagen
+stehen könnten. Die Beschäftigung mit handlungsorientierten
+Exponaten und Ausstellungsbereichen, die verschiedene Sinne
+ansprechen und die ergänzende Recherche auf internetbasierten Lernplattformen, vertiefen den Erkenntnisgewinn. Gängige
+Missverständnisse zum Themenkomplex Klima werden ausgeräumt. Durch die Gegenüberstellung verschiedener Quellen
+wird Glaubwürdigkeit durch Überschneidungen gestärkt. Mit
+Gästen z.B. aus der Energiewirtschaft können die Teilnehmer
+diskutieren, welche Interessen sie mit dem Thema Energieversorgung verbinden und wie diese sich in ein sinnvolles Verhältnis bringen lassen.
+
+Beispiel aus einer außerschulischen Fortbildung
+
+Wie setzen Multiplikatoren das methodisch um?
+
+Wie stelle ich fest, wie
+gut es gelungen ist?
+
+Die Tabelle für die Praxis: Teil 6
+Praxisteil mit Tabellen
+
+Literatur
+
+Literatur
+AG Außerschulische Bildung (2011): Innere Haltung und Kompetenzen des Ausbilders und des Auszubildenden. Online
+unter: http://tinyurl.com/arbeitspapierinnere-haltung (Stand: 02.04.2012).
+ANU – Arbeitsgemeinschaft Natur- und
+Umweltbildung Bundesverband
+(Hrsg., o.J.): Natürlich. Nachhaltig.
+Hanau. Online unter: http://www.umweltbildung.de/fileadmin/inhalte/Materialien/anu_brosch_natuerlich_nachhaltig.pdf (Stand: 13.01.2012).
+BMBF (2009): Bericht der Bundesregierung zur Bildung für eine nachhaltige
+Entwicklung. Berlin. Online unter:
+www.bmbf.de/pub/bericht_fuer_nachhaltige_entwicklung_2009.pdf (Stand:
+10.01.2012).
+Bonsen, Elisabeth/Hey, Gerhard (2002):
+Kompetenzorientierung – eine neue Perspektive für das Lernen in der Schule.
+Online unter: http://lehrplan.lernnetz.de
+(Stand: 06.01.2012).
+Bormann, Inka/de Haan, Gerhard (Hrsg.,
+2008): Kompetenzen der Bildung für
+nachhaltige Entwicklung: Operationalisierung, Messung, Rahmenbedingungen,
+Befunde. Wiesbaden.
+DUK – Deutsche UNESCO-Kommission
+(Hrsg., 2011): Indikatoren der Bildung
+für Nachhaltige Entwicklung: Ein Werkstattbericht. Online unter: http://www.
+unesco.de/fileadmin/medien/Bilder/Publikationen/Indikatoren_der_BNE.pdf
+(Stand: 06.01.2012).
+di Giulio, Antonietta/Ruesch Schweizer,
+Corinne/Adomßent, Maik/Blaser,
+Martina/Bormann, Inka/Burandt,
+­Simon/Fischbach, Robert/KaufmannHayoz, Ruth/Krikser, Thomas/Künzli
+David, Christine/Rammel, Christian
+/Streissler, Anna/Michelsen, Gerd
+(2011): Bildung auf dem Weg zur Nachhaltigkeit: Vorschlag eines IndikatorenSets zur Beurteilung von Bildung für
+Nachhaltige Entwicklung. Bern. Online
+unter: http://www.bne-portal.de/coremedia/generator/unesco/de/Downloads/
+Dekade__Publikationen__national/Bil
+dung_20auf_20dem_20Weg_20zur_20
+Nachhaltigkeit.pdf (Stand: 16.01.2012).
+
+unter: http://www.blk-bonn.de/papers/
+heft72.pdf (Stand: 06.01.2012).
+de Haan, Gerhard (2002): Die Kernthemen einer Bildung für eine nachhaltige
+Entwicklung. In: ZEP. Zeitschrift für
+internationale Bildungsforschung und
+Entwicklungspädagogik. 25. Jg. 2002,
+Heft 1: Rio + 10: 10 Jahre nach dem
+Weltgipfel, S.13-20.
+de Haan, Gerhard/Seitz, Klaus (2001):
+Kriterien für die Umsetzung eines internationalen Bildungsauftrages: Bildung für nachhaltige Entwicklung. In:
+21 – das Leben gestalten lernen. Heft 1,
+S. 58-66.
+Hauff, Volker (Hrsg., 1987): Unsere gemeinsame Zukunft: Der Brundtland-Bericht der Weltkommission für Umwelt
+und Entwicklung. Greven.
+NUN – Norddeutsche Partnerschaft zur
+Unterstützung der UN-Dekade „Bildung für nachhaltige Entwicklung
+2005-2014“ (2011): Qualitätsentwicklung in der außerschulischen Bildung.
+Online unter: http://www.nun-dekade.
+de/fileadmin/nun-dekade/dokumente/2011/NUN-Zertifizierung_ausserschulischer_Anbieter_13.05.2011.pdf
+(Stand: 16.11.2011).
+Ott, Konrad/Döring, Ralf (2004): Theorie
+und Praxis starker Nachhaltigkeit. Marburg.
+Rode, Horst/Wendler, Maya/Michelsen,
+Gerd (2011): Bildung für nachhaltige
+Entwicklung (BNE) bei außerschulischen Anbietern: Wesentliche Ergebnisse einer bundesweiten empirischen
+Studie. Lüneburg. Online unter: http://
+www.bkj.de/fileadmin/user_upload/documents/BNE/Wesentliche_ErgebnissePapier-11-03.pdf (Stand: 06.01.2012).
+Siebert, Horst (2006): Selbstgesteuertes
+Lernen und Lernberatung: Konstruktivistische Perspektiven. 2. Auflage,
+Augsburg.
+SRU – Sachverständigenrat für Umweltfragen (1994): Umweltgutachten 1994.
+Für eine dauerhaft-umweltgerechte Entwicklung. Stuttgart.
+
+Grunwald, Armin/Kopfmüller, Jürgen
+(2006): Nachhaltigkeit. Frankfurt am
+Main.
+
+SRU – Sachverständigenrat für Umweltfragen (2002): Umweltgutachten 2002.
+Für eine neue Vorreiterrolle. Stuttgart.
+
+de Haan, Gerhard/Harenberg, Dorothee
+(1999): Bildung für eine nachhaltige Entwicklung: Materialien zur Bildungsplanung und zur Forschungsförderung. Bund-Länder-Kommission für
+Bildungs­planung und Forschungsförderung (BLK), Heft 72. Bonn. Online
+
+Stoltenberg, Ute (2005): Bildung für nachhaltige Entwicklung in Kindergärten.
+INFU-Diskussionsbeiträge 27/05, Lüneburg. Online unter: http://www.leuphana.de/fileadmin/user_upload/Forschungseinrichtungen/infu/files/pdf/infu-reihe/27_05.pdf (Stand: 16.11.2011).
+
+Stoltenberg, Ute (2010): Werte im Konzept
+einer Bildung für eine nachhaltige Entwicklung. In: Leuchtpol gemeinnützige
+Gesellschaft zur Förderung von Umweltbildung im Elementarbereich mbH
+(Hrsg.): Dokumentation zur Fachtagung
+„Hier spielt die Zukunft – Kinder. Werte. Klimaschutz.“ vom 02.12. bis zum
+03.12.2010. Frankfurt am Main, S. 1018. Online unter: http://www.leuchtpol.
+de/aktionen-und-projekte/fachtagung/
+dokumentation-fachtagung-2010.pdf
+(Stand: 23.02.2012).
+Stratum (o.J.): Der BNE-Generator – Bildung für nachhaltige Entwicklung systemisch entwickeln und evaluieren. Online unter: http://www.stratum-consult.
+de/images/stories /rubriken/service/publikationen/praxispaper/stratum_bne_generator.pdf (Stand: 12.01.2012).
+Transfer-21 (Hrsg., 2007): Orientierungshilfe BNE in der Sek. I: Begründungen,
+Kompetenzen, Lernangebote. Berlin.
+Online unter: http://www.transfer-21.
+de/daten/materialien/Orientierungshilfe/Orientierungshilfe_Kompetenzen.pdf
+(Stand: 12.01.2012).
+Transfer-21 (o.J.): Gestaltungskompetenz.
+Online unter: http://www.transfer-21.de/
+index.php?p=222 (Stand: 18.01.2012).
+UNCED – United Nations Conference
+on Environment and Development
+(1992): Agenda 21. Rio de Janeiro. Online unter: www.un.org/esa/sustdev/documents/agenda21/english/Agenda21.
+pdf (Stand: 23.02.2012).
+UNESCO – United Nations Educational,
+Scientific and Cultural Organization
+(2006): Framework for the UN DESD
+International Implementation Scheme.
+Online unter: http://unesdoc.unesco.
+org/images/0014/001486/148650e.pdf
+(Stand: 23.02.2012).
+Weinert, Franz Emanuel (2001): Vergleichende Leistungsmessung in Schulen –
+eine umstrittene Selbstverständlichkeit.
+In: Weinert, Franz Emanuel (Hrsg.):
+Leistungsmessungen in Schulen. Weinheim/Basel, S. 17-31.
+Zech, Rainer (2008a): Handbuch Qualität
+in der Weiterbildung. Weinheim/Basel.
+Zech, Rainer (2008b): Lernorientierte Qualitätsentwicklung in der Weiterbildung:
+Leitfaden für die Praxis. 2. Auflage,
+Hannover.
+
+25
+
+Literatur
+
+Quellen zu Methodenbeispielen der Qualitätskriterien
+QK 1	EED – Evangelischer Entwicklungs­
+dienst/Brot für die Welt (Hrsg.,
+2009): Fischereiwirtschaft: Eine
+Arbeitshilfe für die Gemeindearbeit zur Studie „Zukunftsfähiges
+Deutschland in einer globalisierten
+Welt“. Bonn, Stuttgart. Online unter:
+www.brot-fuer-die-welt.de/downloads/weltweit-aktiv/arbeitshilfe.pdf
+(Stand: 05.03.2012).
+QK 2	
+Führing, Gisela (o.J.): Globales
+Lernen: Arbeitsblätter für die entwicklungspolitische Bildungsarbeit.
+Herausgegeben vom Deutschen
+Entwicklungsdienst (DED). Online unter: http://www.dblernen.de/
+GL/fundus_weltspiel.htm (Stand:
+05.03.2012).
+
+QK 4	germanwatch (o.J.): Die Rechnung.
+Kurzfilm. Online unter: http://www.
+germanwatch.org/klima/film09.htm
+(Stand: 27.02.2012).
+	Außerdem zu QK 4 empfehlenswerte computergestützte Planspiele sind
+„strategem“ (http://www.ucs.ch/planspiele/workshops/stratagem.html)
+und „energetika“ (www.wir-erntenwas-wir-saeen.de)
+
+QK 8	
+VDN – Verband Deutscher Naturparke (o.J.): Entdecker-Westen.
+Online unter: http://www.naturparke.de/pages/environment/discoverer
+(Stand: 05.03.2012).
+
+QK 6	Ludwig, Thorsten (2011): Schlüsselphänomene einer Bildung für
+nachhaltige Entwicklung. In: Bund
+Heimat und Umwelt in Deutschland
+(Hrsg.): Biologische Vielfalt - ein
+Thema für Heimatmuseen. Bonn, S.
+154-173. Online unter: http://www.
+interp.de/dokumente/ludwig_leitfaden_heimatmuseen.pdf (Stand:
+15.04.2012).
+
+Info-Kasten 9
+Quellen für zusätzliche Methodensammlungen
+Alfred Toepfer Akademie für Naturschutz (Hrsg., 2008):
+Bildung für nachhaltige Entwicklung im Unterricht ab der siebten Klasse. Hintergründe, Methoden, Beispiele,
+Praktische Tipps. Naturschutz im Unterricht 5. Jahrgang, Heft 2, 2008.
+Arbeitsgemeinschaft der evangelischen Jugend in Deutschland/BUNDjugend/Brot für die Welt/Evangelischer Entwicklungsdienst (Hrsg., 2009):
+Mach mal Zukunft! Eine Aktionsmappe für die Jugendarbeit zur Studie „Zukunftsfähiges Deutschland in einer
+globalisierten Welt“. Hannover u.a. Online unter: http://www.eed.de/fix/files/doc/EED_BfdW_Jugend_Zukunft_
+gesamt_09_web.pdf (Stand: 05.03.2012).
+Evangelischer Entwicklungsdienst/Brot für die Welt (Hrsg., 2009):
+Den Kurs wechseln – neue Wege gehen – Zukunft fair teilen. Eine Arbeitshilfe für die Gemeindearbeit zur
+Studie „Zukunftsfähiges Deutschland in einer globalisierten Welt“. Bonn. Online unter: http://www.brot-fuerdie-welt.de/downloads/weltweit-aktiv/arbeitshilfe.pdf (Stand: 05.03.2012).
+Methodensammlung des „Forum Umwelt­bildung“:
+Online unter: http://www.umweltbildung.at/cgi-bin/cms/af.pl?contentid=713 (Stand: 12.01.2012).
+Transfer-21 Methodenübersicht:
+In: Transfer-21 (o.J.): Inhalte, Ergebnisse, Herausforderungen, S. 24. Online unter: http://www.transfer-21.de/
+daten/materialien/Handreichung.pdf (Stand: 05.03.2012).
+„Werkzeugkasten“
+In: Bayerische Forstverwaltung (2010): Forstliche Bildungsarbeit. 7. Auflage.
+
+26
+
+AG AuSSerschulische Bildung
+
+Diese Handreichung wurde im Umfeld der AG „Außerschulische Bildung“ der UN-Dekade „Bildung
+für nachhaltige Entwicklung“ in mehreren Diskussionsstufen erstellt. Ein Baustein auf dem Weg
+dorthin war die Fachtagung „Gute BNE – ist denn das zu fassen?“, die vom 2. bis zum 4. März 2011
+an der Alfred Toepfer Akademie in Schneverdingen stattgefunden hat. Unser herzlicher Dank für den
+Austausch und die fruchtbaren Gedanken gilt neben den Tagungsteilnehmern auch den vielen weiteren Personen, die bei der Erstellung dieser Handreichung geholfen haben.
+
+Mitglieder der AG Außerschulische Bildung der UN-Dekade
+„Bildung für nachhaltige Entwicklung“:
+Dr. Heino Apel
+
+(Ehem.) Deutsches Institut für Erwachsenenbildung (DIE)
+
+Ann-Kathrin Becker
+
+Institut für Kirche und Gesellschaft
+
+Karola Braun-Wanke	Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Otto-Suhr-Institut für
+Politikwissenschaft
+Katja Breyer	Amt für Mission, Ökumene und kirchliche Weltverantwortung (MÖWe) der Evangelischen
+Kirche von Westfalen (EKvW)
+Michael Danner
+
+Kommunikation für Mensch & Umwelt
+
+Annette Dieckmann
+
+Arbeitsgemeinschaft Natur- und Umweltbildung Bundesverband
+
+Gabi Diethers
+
+Deutscher Wanderverband
+
+Anna Durst
+
+InWEnt - Internationale Weiterbildung und Entwicklung
+
+Dr. Friedrun Erben
+
+Evangelische Trägergruppe für gesellschaftspolitische Jugendbildung
+
+Bianca Fischer
+
+Bundesvereinigung Kulturelle Kinder- und Jugendbildung (BKJ)
+
+Edmund Gumpert
+
+Umweltbeauftragter des Bistums Würzburg
+
+Gertrud Hartmann
+
+Alfred Toepfer Akademie für Naturschutz
+
+Jenny Helber
+
+NABU Wiesloch
+
+Roderich Henrÿ
+
+Georg-Eckert-Institut für Internationale Schulbuchforschung
+
+Jürgen Hoffmann
+
+Kompetenzzentrum Betrieblicher Umweltschutz, Umweltpolitik und Nachhaltige Entwicklung
+
+Annika Horstick
+
+Verband Deutscher Naturparke
+
+Simone Janas
+
+NABU Wiesloch
+
+Eva Jürgens
+
+NABU-Bundesgeschäftsstelle
+
+Katrin Koops
+
+Institut für Internationale Zusammenarbeit des Deutschen Volkshochschul-Verbandes
+
+Marion Loewenfeld
+
+Ökoprojekt - MobilSpiel
+
+Marie Lorbeer
+
+MACHmit! Museum für Kinder
+
+Thorsten Ludwig
+
+Bildungswerk interpretation
+
+Claudia Mierzowski
+
+IJAB - Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland
+
+Barbara Riek
+
+Evangelischer Entwicklungsdienst
+
+Georg Salditt
+
+Internationales Begegnungszentrum St. Marienthal (IBZ)
+
+Dr. Johanna Schockemöhle Universität Vechta, ISPA
+Jutta Spoden
+
+Bundeszentrale für politische Bildung (bpb)
+
+Claudia Steffens
+
+DGB-Bildungswerk
+
+Jens Tanneberg
+
+Klimahaus Bremerhaven 8° Ost
+
+Dr. Brigitte Varchmin
+
+Ministerium für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein
+
+Monika Ziebell
+
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
+
+27
+
+Herausgeber:
+Deutsche UNESCO-Kommission e.V. (DUK)
+Langwartweg 72
+53129 Bonn
+Tel.: +49(0)228-68 84 44-0
+Fax: +49(0)228-68 84 44-79
+E-Mail: sekretariat@esd.unesco.de
+www.bne-portal.de
+www.unesco.de
+
+ISBN 978-3-940785-42-8
+
+

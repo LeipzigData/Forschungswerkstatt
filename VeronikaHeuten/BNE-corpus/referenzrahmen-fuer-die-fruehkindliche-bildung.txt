@@ -1,0 +1,793 @@
+Referenzrahmen für die
+frühkindliche Bildung
+Bildung für nachhaltige Entwicklung
+
+1
+
+Inhalt
+Vorwort
+
+2
+
+Hintergrund
+
+3
+
+„Bildung für nachhaltige Entwicklung – Impulspapier zur Umsetzung
+eines ethischen Leitbilds in der frühen Kindheit“
+
+4
+
+	Ein Arbeitspapier des Forums Frühkindliche Bildung....................................................................... 4
+
+Bausteine, Anforderungen und Praxisindikatoren für die Qualitätsmanagementsysteme von Kindertageseinrichtungen
+
+8
+
+Ein Referenzrahmen des Forums Frühkindliche Bildung................................................................ 8
+Führungsprozesse............................................................................................................................................. 10
+Strategie- und Organisationsentwicklung................................................................................. 10
+Beobachtung und Mitgestaltung des gesellschaftlichen Wandels.................................. 12
+Personalentwicklung............................................................................................................................ 13
+Kernprozesse........................................................................................................................................................ 14
+Bildungsangebote................................................................................................................................... 14
+Räumliche Gestaltung.......................................................................................................................... 16
+Erziehungspartnerschaft mit Eltern.............................................................................................. 17
+Kooperation und Vernetzung im Sozialraum........................................................................... 17
+Unterstützungsprozesse.................................................................................................................................. 18
+Ressourcenmanagement, Bewirtschaftung und Beschaffung.......................................... 18
+
+Literaturverzeichnis
+
+20
+
+Impressum
+
+21
+
+2
+
+Vorwort
+Wie können wir weltweit die Ernährung der Menschen sicherstellen? Wie kann es gelingen, Ungerechtigkeiten wie Hunger und Armut zu bewältigen? Was sind die richtigen Antworten auf die Klimakrise und auf schwindende Ressourcen? Wir stehen heute
+vor ökologischen, ökonomischen und sozialen Herausforderungen, die wir bewältigen
+müssen. Natürlich sind Politik und Wirtschaft gefragt, wenn es darum geht, Lösungen
+zu finden. Aber auch das Bildungssystem steht in der Verantwortung, insbesondere
+auch Kindertageseinrichtungen, die als erste Orte der Bildung außerhalb von Familien
+einen Grundstein für zukunftsfähiges Denken und Handeln legen.
+Wir brauchen ein Bildungsverständnis, auf dessen Grundlage Kinder darin gestärkt
+werden, zukunftsfähig zu denken und zu handeln. Ein Lernen, das nicht nur Wissen
+vermittelt, sondern auch eine Veränderung von Haltungen und Verhaltensweisen
+bewirkt. Ein ganzheitliches Lernverständnis, in dessen Mittelpunkt die Anforderungen
+der Bildung für nachhaltige Entwicklung (BNE) stehen.
+Im Rahmen des Nationalen Aktionsplans Bildung für nachhaltige Entwicklung haben
+die Mitglieder des Forums Frühkindliche Bildung zu Bildung für nachhaltige Entwicklung ein Impulspapier zur Umsetzung eines ethischen Leitbilds in der frühen Kindheit
+entwickelt. Aus den darin enthaltenen bildungstheoretischen Eckpunkten wurden
+Qualitätsanforderungen und Praxisindikatoren herausgearbeitet, die in den Qualitätsmanagementkonzepten und -systemen der Trägerverbände, der Kindertageseinrichtungen und ihrer Träger verankert werden können. Im Rahmen von zwei Fachveranstaltungen wurde der Ansatz mit Vertreterinnen und Vertretern verschiedener
+Professionen (unter anderem Trägervertreterinnen und -vertreter, Fachberaterinnen
+und Fachberater, Vertreterinnen und Vertreter der Aus- und Weiterbildung) diskutiert.
+Dieses Arbeitspapier stellt einen Referenzrahmen für die Praxis dar, um Bildung für
+nachhaltige Entwicklung verlässlich und wirksam in Kindertageseinrichtungen zu
+etablieren.
+Wir würden uns freuen, wenn Sie unsere Impulse für Ihre Arbeit nutzen können.
+Für das Forum Frühkindliche Bildung:
+
+Frank Jansen
+Vorsitzender
+Geschäftsführer des Verbandes
+Katholischer Kindertageseinrichtungen
+(KTK) – Bundesverband e. V.,
+Freiburg/Berlin
+
+Susanne Schubert
+Co-Vorsitzende
+Innowego – Forum Bildung &
+Nachhaltigkeit eG /
+Bündnis ZukunftsBildung,
+Bonn
+
+Hintergrund
+2015 fiel der Startschuss für das UNESCO-Weltaktionsprogramm Bildung für nachhaltige Entwicklung (WAP
+BNE), das nun durch das Folgeprogramm „Education
+for Sustainable Development: Towards achieving the
+SDGs“ – kurz „ESD for 2030“ fortgeführt wird. Das
+Programm zielt darauf, langfristig eine systemische
+Veränderung des Bildungssystems zu bewirken und
+Bildung für nachhaltige Entwicklung vom Projekt in
+die Struktur zu bringen. Es leistet einen wesentlichen
+Beitrag zur Agenda 2030 für nachhaltige Entwicklung,
+die im September 2015 von den Vereinten Nationen
+verabschiedet wurde.
+Die Bundesregierung beteiligt sich am UNESCOWeltaktionsprogramm. Das federführende Ressort ist
+das Bundesministerium für Bildung und Forschung
+(BMBF). Als Lenkungsgremium hat das BMBF für
+die deutsche Umsetzung des UNESCO-Weltaktionsprogramms die Nationale Plattform Bildung für
+nachhaltige Entwicklung einberufen, der rund 40
+Entscheidungsträgerinnen und Entscheidungsträger
+aus Politik, Wissenschaft, Wirtschaft und Zivilgesellschaft angehören. Der Nationalen Plattform Bildung
+für nachhaltige Entwicklung arbeiten sechs Foren zu,
+unter anderem das Forum Frühkindliche Bildung.
+Weitere Informationen unter: bne-portal.de
+
+„Bildung für nachhaltige Entwicklung –
+Impulspapier zur Umsetzung eines
+ethischen Leitbilds in der frühen
+Kindheit“
+Ein Arbeitspapier des Forums Frühkindliche Bildung
+
+„BILDUNG FÜR NACHHALTIGE ENTWICKLUNG – IMPULSPAPIER ZUR UMSETZUNG EINES
+ETHISCHEN LEITBILDS IN DER FRÜHEN KINDHEIT“
+
+Frühe Bildung für eine Kultur
+der Nachhaltigkeit
+Beschleunigter Klimawandel, zunehmende globale
+Ungleichheit, der Verlust an biologischer Vielfalt, global
+steigender Ressourcenverbrauch oder Flucht- und
+Migrationsbewegungen – die Forderung nach mehr
+Nachhaltigkeit angesichts dieser globalen Herausforderungen ist gleichzeitig ein Aufruf zu mehr sozialer
+Gerechtigkeit: Gerechtigkeit für ein gutes Leben im
+Globalen Norden und Globalen Süden sowie Gerechtigkeit zwischen den heutigen und den zukünftigen
+Generationen.
+Die Bewältigung dieser Herausforderungen erfordert
+nicht nur einen umfassenden technologischen und
+wirtschaftlichen, sondern auch einen politischen und
+gesellschaftlichen Wandel. Will die Weltgesellschaft
+ihre selbst gesetzten Nachhaltigkeitsziele erreichen,
+gilt es global eine Kultur der Nachhaltigkeit zu stärken.
+Eine solche Kultur fußt auf einer Sorge für die menschliche und nicht-menschliche Mitwelt, eine Fähigkeit,
+die bereits in der frühen Kindheit erworben wird. Es
+sind diese ersten Lebensjahre, in denen Kinder die
+Voraussetzungen für Empathie, moralisches Handeln
+und pro-soziales Verhalten entwickeln. Bildung für
+nachhaltige Entwicklung (BNE) in der frühkindlichen
+Bildung leistet daher einen besonderen Beitrag zu einer
+Kultur der Nachhaltigkeit.
+
+Der Wertekern der frühkindlichen
+Bildung für nachhaltige Entwicklung
+Kinder haben das Recht auf eine intakte und friedliche zukünftige Lebenswelt sowie das Recht, diese
+schon heute mitzugestalten. Bildung für nachhaltige
+Entwicklung sollte Kinder daher darin unterstützen, Probleme nicht-nachhaltiger Entwicklung im
+nahen Umfeld aber auch entfernten Weltregionen zu
+reflektieren, Wertvorstellungen vor dem Hintergrund
+von Gerechtigkeitsprinzipien zu hinterfragen sowie
+Visionen alternativer Zukünfte zu entwickeln. Auf
+diese Weise trägt Bildung für nachhaltige Entwicklung wesentlich dazu bei, die Grundvoraussetzungen
+für einen sicheren künftigen Handlungsraum der
+Menschheit zu schaffen.
+
+5
+
+Bereits junge Kinder sind in der Lage, sich als aktive
+und kompetente „Change Agents“ in die Gestaltung
+gesellschaftlicher Veränderungen einzubringen. Entscheidend dabei ist es, ihnen altersangemessen und
+lebensweltbezogen Themen und Herausforderungen
+der Nachhaltigkeit nahe zu bringen. Es soll ihnen
+möglich sein, selbst Lösungen zu finden und Veränderungen mitzugestalten. Dabei sollte die Selbsttätigkeit
+des Kindes sowie berührende Erlebnisse und Erfahrungen im Vordergrund stehen, die für Fragen einer
+nachhaltigen Entwicklung sensibilisieren und denen
+die Kinder im Sinne eines ko-konstruktivistischen
+Lernverständnisses zunehmend Bedeutung beimessen. Dabei lernen Kinder einen achtsamen Umgang
+mit Ressourcen und erleben gleichzeitig Freiräume
+zum Ausprobieren.
+Als emanzipatorisches Bildungskonzept sollte Bildung
+für nachhaltige Entwicklung daher zwar nachhaltige
+Handlungsoptionen (zum Beispiel Konsum, Herkunft
+des Spielzeugs, Ressourcenverbrauch in der Einrichtung, Wertschätzung im Umgang mit Natur und
+Menschen – auch im globalen Kontext) aufzeigen. Es
+ist jedoch zu vermeiden, moralisierend bestimmte
+Verhaltensweisen zu erzwingen. Vielmehr stehen die
+demokratische Aushandlung gemeinsamer Regeln,
+das Ergründen allgemein gültiger Werte (Menschenrechte) sowie das Erproben von Demokratie und
+Mitbestimmung im Mittelpunkt. Nur so können junge
+Kinder die Erfahrung machen, dass sie mit ihrem
+Handeln einen Einfluss auf ihr direktes Umfeld haben.
+Sie können so eine Motivation entwickeln, sich als
+mündige Bürgerinnen und Bürger auch an größeren
+gesellschaftlichen Veränderungsprozessen aktiv zu
+beteiligen. Der kindlichen Selbsttätigkeit und ihren
+Impulsen zur Sorge für Natur und die Mitmenschen
+kommt dabei eine entscheidende Rolle zu.
+Bei der Förderung einer wertschätzenden und verantwortungsvollen Haltung gegenüber den natürlichen
+Lebensgrundlagen kann auf den bereits bestehenden
+vielfältigen Ansätzen zur Naturerfahrung in- und
+außerhalb der Kindertageseinrichtungen aufgebaut
+werden. Darüber hinaus spielen die positiven Erfahrungen von Diversität und Heterogenität eine
+wesentliche Rolle. Bildung für nachhaltige Entwicklung berücksichtigt damit Ideen zu einer inklusiven,
+lebenslangen und ganzheitlichen Bildung in einer
+vielfältigen Welt.
+
+„BILDUNG FÜR NACHHALTIGE ENTWICKLUNG – IMPULSPAPIER ZUR UMSETZUNG EINES
+ETHISCHEN LEITBILDS IN DER FRÜHEN KINDHEIT“
+
+7
+
+Befähigung zur Zukunftsgestaltung
+als zentrale Aufgabe der
+pädagogischen Fachkräfte
+
+Die nachhaltige Kita als Ort der
+Veränderung und Brücke in die
+Bildungslandschaft
+
+Eine zentrale Rolle in der Umsetzung dieses ganzheitlichen Bildungsverständnisses haben die pädagogischen Fachkräfte. Ihre Aufgabe ist es, das eigenständige Erkunden der Um- und Mitwelt zu unterstützen,
+für die Grundlagen wissenschaftlichen Denkens zu
+interessieren, die Entwicklung von Wertorientierungen zu fördern, die Handlungsbereitschaft der Kinder
+zu stärken und Räume der Partizipation zu eröffnen.
+Die Formate dafür sind vielfältig: Naturerfahrung ermöglichen, Experimente unterstützen, die Lebenswelt
+erkunden, Philosophieren mit Kindern fördern, Kinderparlamente einrichten und die Fragen der Kinder
+aktiv aufgreifen und mit Nachhaltigkeitsaspekten in
+Beziehung setzen.
+
+Die nachhaltige Ausrichtung der Kindertageseinrichtung spielt eine entscheidende Rolle bei Bildung für
+nachhaltige Entwicklung. Im Sinne eines ganzheitlichen Ansatzes (Whole Institution Approach (WIA))
+soll sie durch die konsequente Ausrichtung an Nachhaltigkeitskriterien in Beschaffung und Ressourcenmanagement einen zusätzlichen informellen Lernort
+darstellen. Eine gemeinsame Umgestaltung der Kindertageseinrichtung durch alle Beteiligten kann dabei
+ein Experimentierfeld für praktische Veränderungen
+und damit die Anwendung von Bildung für nachhaltige Entwicklung sein.
+
+In der Arbeit der pädagogischen Fachkräfte in der
+Bildung für nachhaltige Entwicklung geht es damit
+nicht nur darum, ökologische, soziale, wirtschaftliche und kulturelle Aspekte inhaltlich aufzugreifen,
+sondern gleichfalls um innovative Methoden zur
+Anregung von Lernprozessen. Nicht zuletzt ist es die
+Aufgabe der pädagogischen Fachkräfte, die Kunst der
+Zukunftsgestaltung selbst zu praktizieren und ihr
+eigenes Handeln zu reflektieren. Sie sollen Vorbilder
+für eine Kultur der Nachhaltigkeit in der Einrichtung
+sein und damit den Kindern nachhaltiges Handeln
+authentisch vorleben.
+
+Den Leitungskräften der Einrichtungen kommt dabei
+eine besondere Funktion zu: Sie können das Nachhaltigkeitsmanagement der Einrichtung anstoßen und
+Bildung für nachhaltige Entwicklung in der eigenen
+Personalentwicklung einen bedeutsamen Stellenwert
+geben (bspw. durch die Ermöglichung von Fortbildungen). Schließlich können sie die Kindertageseinrichtungen mit anderen Lernorten (zum Beispiel
+Biobauernhöfe, Eine-Welt-Zentren, UmweltbildungsEinrichtungen, aber auch andere Bildungseinrichtungen) vernetzen und als Teil der lokalen Bildungslandschaft profilieren.
+
+Bausteine, Anforderungen
+und Praxisindikatoren für die
+Qualitäts­managementsysteme
+von Kindertageseinrichtungen
+Ein Referenzrahmen des Forums Frühkindliche Bildung
+
+BAUSTEINE, ANFORDERUNGEN UND PRAXISINDIKATOREN FÜR DIE
+QUALITÄTSMANAGEMENTSYSTEME VON KINDERTAGESEINRICHTUNGEN
+
+9
+
+Die im Einleitungskapitel skizzierten globalen Herausforderungen wie begrenzte Ressourcen, der beschleunigte Klimawandel, steigende globale Ungleichheiten
+und klimatisch bedingte Flucht- und Migrationsbewegungen markieren zentrale Handlungsfelder im
+21. Jahrhundert. Der Mensch ist zu einem der wichtigsten Einflussfaktoren auf biologische, geologische und
+atmosphärische Prozesse auf der Erde geworden. Das
+ethische Leitbild der Nachhaltigkeit, das den vorliegenden Bausteinen, Anforderungen und Praxisindikatoren
+zugrunde liegt, ist als Aufruf für mehr Gerechtigkeit zu
+verstehen. Mit einer noch nie dagewesenen Brisanz: Es
+geht darum, Gerechtigkeit zwischen heutigen Generationen für ein gutes Leben im Globalen Norden und
+Globalen Süden sowie Gerechtigkeit zwischen den
+heutigen und den zukünftigen Generationen bewusst
+zu machen und dementsprechend zu handeln.
+
+Das ethische Leitbild bietet eine Basis zur Orientierung bei der Umsetzung von Bildung für nachhaltige
+Entwicklung. Dabei ist es erforderlich, eine systemische Haltung einzunehmen. Durch Bildung allein
+lassen sich die globalen Herausforderungen nicht
+lösen. Bildung für nachhaltige Entwicklung ist eine
+gesamtgesellschaftliche Aufgabe – Gesellschaft,
+Politik und Wirtschaft sind herausgefordert. Erst im
+Zusammenspiel der unterschiedlichen Akteurinnen
+und Akteure wird Bildung für nachhaltige Entwicklung wirksam.
+
+Nicht nur für die frühe Bildung ergeben sich dabei die
+Herausforderungen, dass die Absicht beziehungsweise das Ziel von Bildung für nachhaltige Entwicklung
+(BNE) langfristig, das heißt in der Zukunft, verortet ist.
+Die Begrenztheit der Ressourcen und die Verantwortung dafür fordern eine Zukunftsethik: Handele stets
+so, dass auch nachfolgende Generationen auf der Erde
+gut leben können (Hans Jonas, Prinzip Verantwortung).
+
+Bildung für nachhaltige Entwicklung braucht eine
+besondere Kultur des Aufwachsens. Dazu gehört,
+dass Erwachsene sich als Vorbild verstehen und nicht
+moralisieren. Eine besondere Kultur des Aufwachsens
+zeichnet sich auch durch einen dialogisch geprägten
+Austausch aus, in dem Kinder ihre eigenen Ideen entwickeln können und darin unterstützt werden.
+
+Zu den Anknüpfungspunkten für Bildung für nachhaltige Entwicklung in der frühen Kindheit gehören
+neben der moralischen Motivation die Haltung, Dinge
+verändern zu können sowie die Erfahrung, dass man
+mit dem eigenen Tun etwas bewirken kann.
+
+10
+
+BILDUNG FÜR NACHHALTIGE ENTWICKLUNG
+
+Führungsprozesse
+Baustein: Strategie- und Organisationsentwicklung
+Anforderungen
+
+Praxisindikatoren
+
+Nachhaltigkeit und Bildung für nachhaltige
+Entwicklung gehören in der Kindertageseinrichtung zu den Grundprinzipien des
+pädagogischen Handelns. Leitend ist dabei
+der ganzheitliche Ansatz von Bildung für
+nachhaltige Entwicklung – der Whole
+Institution Approach (WIA).
+
+In der Kindertageseinrichtung …
+• wissen Träger, Leitung und alle Mitarbeiterinnen und Mitarbeiter, was Bildung für nachhaltige Entwicklung bedeutet;
+
+• sind allen Mitarbeiterinnen und Mitarbeitern, den Eltern und
+den Kindern die auf Bildung für nachhaltige Entwicklung
+bezogenen Grundsätze und Anforderungen der Einrichtung
+bekannt;
+
+• gibt es eine klare Position zur Nachhaltigkeit, die alle
+Mitarbeiterinnen und Mitarbeiter kennen;
+
+• liegt ein Konzept für Bildung für nachhaltige Entwicklung
+vor, das von allen Mitarbeiterinnen und Mitarbeitern gemeinsam entwickelt und vom Träger verabschiedet wurde;
+
+• stellt der Träger die notwendigen Ressourcen sicher, die
+erforderlich sind, um Bildung für nachhaltige Entwicklung
+umsetzen zu können;
+
+• unterstützt der Träger alle Aktivitäten, die auf Bildung für
+nachhaltige Entwicklung ausgerichtet sind;
+
+• wissen Träger, Leitung und die pädagogischen Fachkräfte um
+ihre Vorbildfunktion zu Themen der Bildung für nachhaltige
+Entwicklung und leben diese;
+
+BAUSTEINE, ANFORDERUNGEN UND PRAXISINDIKATOREN FÜR DIE
+QUALITÄTSMANAGEMENTSYSTEME VON KINDERTAGESEINRICHTUNGEN
+
+Anforderungen
+
+11
+
+Praxisindikatoren
+
+• orientieren sich Träger, Leitung und Team in Fragen der
+Organisationsentwicklung an den Anforderungen der Bildung für nachhaltige Entwicklung;
+
+• reflektieren Träger, Leitung und Team gemeinsam mindestens einmal jährlich die Organisationsstrukturen und Angebote ihrer Einrichtung unter den Anforderungen der Bildung
+für nachhaltige Entwicklung;
+
+• bewerten Träger, Leitung und Team gemeinsam mindestens
+einmal jährlich, inwieweit sie ihre auf eine Bildung für nachhaltige Entwicklung bezogenen Ziele erreicht haben;
+
+• werden mit den Eltern die Aktivitäten zu Themen der
+Bildung für nachhaltige Entwicklung beraten;
+
+• hat die Leitung die notwendigen Kompetenzen, strategische,
+pädagogische und kommunikative Prozesse zu Fragen der
+Bildung für nachhaltige Entwicklung zielgerichtet gestalten
+und steuern zu können.
+
+Bildung für nachhaltige Entwicklung ist
+im Leitbild und in der pädagogischen
+Konzeption der Kindertageseinrichtung
+verankert.
+
+In der Kindertageseinrichtung …
+• wird vom Träger, der Leitung und vom Team geprüft, ob im
+Leitbild und in der pädagogischen Konzeption Fragen der
+Bildung für nachhaltige Entwicklung ausreichend berücksichtigt sind;
+
+• werden das Leitbild und die pädagogische Konzeption
+zusammen mit den Mitarbeiterinnen und Mitarbeitern auf
+der Grundlage der Bildung für nachhaltige Entwicklung
+entwickelt und kontinuierlich angepasst;
+
+BILDUNG FÜR NACHHALTIGE ENTWICKLUNG
+
+12
+
+Anforderungen
+
+Praxisindikatoren
+
+• sind das Leitbild und die Konzeption dokumentiert und
+allgemein bekannt;
+
+• verständigen sich Träger, Leitung und Mitarbeiterinnen und
+Mitarbeiter regelmäßig über notwendige Haltungen und
+Werte, die in einem Zusammenhang zur Bildung für nachhaltige Entwicklung stehen.
+
+Die mit der Bildung für nachhaltige
+Entwicklung verbundenen pädagogischen
+und betrieblichen Prozesse und Erfordernisse sind so geregelt und dokumentiert,
+dass diese geprüft, weiterentwickelt und
+gesichert werden können.
+
+In der Kindertageseinrichtung …
+• sind notwendige Maßnahmen und Prozesse der Bildung für
+nachhaltige Entwicklung beschrieben und dokumentiert;
+
+• werden auf die Bildung für nachhaltige Entwicklung bezogene Maßnahmen und Prozesse auf deren Zielerreichungsgrad
+hin mindestens einmal jährlich intern evaluiert.
+
+Die Kindertageseinrichtung versteht sich
+mit Blick auf das Konzept der Bildung
+für nachhaltige Entwicklung als lernende
+Organisation.
+
+In der Kindertageseinrichtung …
+• reflektieren Träger, Leitung und Team auf der Grundlage der
+Evaluationsergebnisse die organisatorischen und pädagogischen Abläufe in ihrer Einrichtung und entwickeln diese
+weiter.
+
+Baustein: Beobachtung und Mitgestaltung des gesellschaftlichen Wandels
+Anforderungen
+
+Praxisindikatoren
+
+Veränderungen und Entwicklungen in
+der Gesellschaft, insbesondere in sozialen
+und ökologischen Fragen, werden in der
+Kindertageseinrichtung wahrgenommen,
+ausgewertet und daraus Konsequenzen
+abgeleitet.
+
+In der Kindertageseinrichtung …
+• unterstützen Träger, Leitung und Mitarbeiterinnen und Mitarbeiter eine gerechte, ökologisch nachhaltige und solidarische Gesellschaftsentwicklung;
+
+• verstehen sich Träger, Leitung und Mitarbeiterinnen und
+Mitarbeiter als Initiatorinnen und Initiatoren gesellschaftlicher Veränderungsprozesse;
+
+BAUSTEINE, ANFORDERUNGEN UND PRAXISINDIKATOREN FÜR DIE
+QUALITÄTSMANAGEMENTSYSTEME VON KINDERTAGESEINRICHTUNGEN
+
+Anforderungen
+
+13
+
+Praxisindikatoren
+
+• reflektieren der Träger und die Leitung ihre aktive Rolle in
+Veränderungsprozessen und entwickeln diese weiter;
+
+• setzen sich Leitung, Team und Träger mit den Veränderungen
+in ihrem Sozialraum auseinander und werten diese mit Blick
+auf ihre Arbeit aus;
+
+• beziehen Leitung, Team und Träger in geeigneter Weise
+Kinder und Eltern in diese Reflexionsprozesse ein;
+
+• tauschen sich Leitung, Team und Träger mit anderen Akteurinnen und Akteuren im Sozialraum über mögliche Veränderungen und daraus ableitbare Maßnahmen aus;
+
+• vernetzen sich die Verantwortlichen mit anderen Akteurinnen und Akteuren der Bildung für nachhaltige Entwicklung
+im Sozialraum;
+
+• werden das Leitbild und die Konzeption entsprechend
+den veränderten Anforderungen aus dem Sozialraum
+weiterentwickelt.
+
+Baustein: Personalentwicklung
+Anforderungen
+
+Praxisindikatoren
+
+Bildung für nachhaltige Entwicklung ist
+Teil des Personalentwicklungskonzepts des
+Trägers und der Leitung der Kindertageseinrichtung.
+
+In der Kindertageseinrichtung …
+• haben die Mitarbeiterinnen und Mitarbeiter ausreichend Zeit
+dafür, sich im Rahmen von Fort- und Weiterbildungen mit
+Themen der Bildung für nachhaltige Entwicklung regelmäßig
+und angemessen auseinandersetzen zu können;
+
+14
+
+Anforderungen
+
+BILDUNG FÜR NACHHALTIGE ENTWICKLUNG
+
+Praxisindikatoren
+
+• stellen Träger und Leitungen sicher, dass Fort- und Weiterbildungen zu Fragen der Bildung für nachhaltige Entwicklung durchgeführt werden, an denen alle Mitarbeiterinnen
+und Mitarbeiter gemeinsam teilnehmen;
+
+• fördern Träger und Leitung einen regen Austausch zu Themen der Bildung für nachhaltige Entwicklung im Team;
+
+• werden die Inhalte von Fort- und Weiterbildungen mit dem
+Team ausgewertet und auf die Arbeit übertragen;
+
+• werden die pädagogischen Mitarbeiterinnen und Mitarbeiter
+an der Entwicklung der pädagogischen Angebote, an deren
+Erprobung, Auswertung und Weiterentwicklung beteiligt;
+
+• werden Maßnahmen für die Teamentwicklung angeboten,
+in denen die Interessen der Mitarbeiterinnen und Mitarbeiter berücksichtigt sind und die dazu dienen, die von der
+Einrichtung definierten Ziele der Bildung für nachhaltige
+Entwicklung zu erreichen.
+
+Kernprozesse
+Baustein: Bildungsangebote
+Anforderungen
+
+Praxisindikatoren
+
+Die Bildungsangebote sind so gestaltet,
+dass diese den Anforderungen der Bildung
+für nachhaltige Entwicklung entsprechen.
+
+In der Kindertageseinrichtung …
+• werden in den Bildungsangeboten gesellschaftliche Themen
+erörtert, die in einem unmittelbaren Bezug zum Konzept der
+Bildung für nachhaltige Entwicklung stehen;
+
+BAUSTEINE, ANFORDERUNGEN UND PRAXISINDIKATOREN FÜR DIE
+QUALITÄTSMANAGEMENTSYSTEME VON KINDERTAGESEINRICHTUNGEN
+
+Anforderungen
+
+15
+
+Praxisindikatoren
+
+• ist es Kindern möglich, sich mit zukunftsrelevanten Themen
+wie sauberes Wasser, Ernährung, Energie, Klima, Abfall,
+Konsum oder Gerechtigkeit auseinanderzusetzen;
+
+• wird das Interesse von Kindern, sich mit Themen der Nachhaltigkeit auseinanderzusetzen, von den Mitarbeiterinnen
+und Mit­arbeitern unterstützt;
+
+• werden Kindern ausreichend Erfahrungsräume angeboten,
+um sich ganzheitlich und eigeninitiativ mit Themen ihrer
+ökologischen und sozialen Mitwelt auseinanderzusetzen;
+
+• erleben Kinder, dass ihre Interessen beispielsweise an Klima­
+fragen, an Fragen der biologischen Vielfalt und an der sozialen Gerechtigkeit ernstgenommen und aufgegriffen werden;
+
+• verstehen Kinder, dass sie das Recht auf eine friedliche
+Lebenswelt haben sowie das Recht und die Verantwortung,
+diese mitzugestalten;
+
+• ist es Kindern möglich, über Themen einer nachhaltigen
+Entwicklung wie beispielsweise über Gerechtigkeit und über
+Solidarität zu philosophieren;
+
+• ist es Kindern möglich, sich Grundlagen für nachhaltiges
+Denken und Handeln durch entdeckend-forschendes Lernen
+und durch das selbsttätige Ausprobieren und Anwenden
+anzueignen;
+
+• erfahren Kinder im pädagogischen Alltag und in Projekten
+zu Themen der Bildung für nachhaltige Entwicklung, dass
+ihr Handeln Konsequenzen hat, dass sie Sachverhalte alleine
+oder in Gemeinschaft beeinflussen und in diesem Sinne
+selbst wirksam sein können;
+
+16
+
+ZWISCHENBILANZ ZUM NATIONALEN AKTIONSPLAN BILDUNG FÜR NACHHALTIGE ENTWICKLUNG
+
+Anforderungen
+
+Praxisindikatoren
+
+• erleben Kinder in partizipativen Prozessen und in demokratischen Strukturen, dass ihre Ideen und Vorschläge einbezogen, ­diskutiert und verwirklicht werden und entwickeln auf
+diese Weise ein Verständnis für Demokratie;
+
+• werden Kinder dazu ermuntert, an Entscheidungen mitzuwirken, Lösungen auszuhandeln und Veränderungen im
+Kita-Alltag zu initiieren;
+
+• ist ein Beschwerdemanagement etabliert, um die Kritik und
+die Anregungen der Kinder verlässlich zu dokumentieren,
+auszuwerten und umzusetzen.
+
+Baustein: Räumliche Gestaltung
+Anforderungen
+
+Praxisindikatoren
+
+Die Kindertageseinrichtung bietet
+Erfahrungsräume und Lernanlässe
+für zukunftsorientiertes Denken und
+Handeln.
+
+In der Kindertageseinrichtung …
+• werden bei der Ausstattung und Gestaltung der Räume
+und bei der Beschaffung von Materialien Kriterien der
+Nachhaltigkeit beachtet;
+
+• werden gemeinsam mit den Kindern die Räume und das
+Außengelände so gestaltet, dass diese vielfältige Erfahrungen und Bildungsanlässe zu Nachhaltigkeitsthemen
+eröffnen;
+
+• gibt es frei zugänglich Materialien, die Kindern und
+Erwachsenen immer wieder Anlass geben, sich mit
+verschiedenen Aspekten zukunftsorientierten Handelns
+auseinanderzusetzen und diese im Sinne einer nachhaltigen
+Entwicklung auszuprobieren und einzuüben;
+
+• sind die Räume übersichtlich strukturiert und bieten eine
+altersgemäße Orientierung, um sich mit Fragen der Nachhaltigkeit auseinanderzusetzen.
+
+BAUSTEINE, ANFORDERUNGEN UND PRAXISINDIKATOREN FÜR DIE
+QUALITÄTSMANAGEMENTSYSTEME VON KINDERTAGESEINRICHTUNGEN
+
+Anforderungen
+
+17
+
+Praxisindikatoren
+
+Baustein: Erziehungspartnerschaft mit Eltern
+Anforderungen
+
+Praxisindikatoren
+
+Die Eltern und das familiäre Umfeld der
+Kinder werden in die Entwicklung und
+in die Umsetzung der auf die Bildung
+für nachhaltige Entwicklung bezogenen
+Ziele einbezogen.
+
+In der Kindertageseinrichtung …
+• sind die Eltern über die Bildungsarbeit zu Fragen der Bildung für nachhaltige Entwicklung umfassend informiert;
+
+• werden das Wissen, die Erfahrungen und das Engagement
+der Eltern für die Bildungsarbeit genutzt;
+
+• werden Eltern an der Planung und Durchführung von
+Veranstaltungen beteiligt, die unter den Kriterien der
+Nachhaltigkeit stehen;
+
+• wird die Eigeninitiative von Eltern zu Themen der Bildung
+für nachhaltige Entwicklung unterstützt;
+
+• werden Eltern darin gestärkt, Verantwortung für
+Nachhaltigkeits­­initiativen zu übernehmen.
+
+Baustein: Kooperation und Vernetzung im Sozialraum
+Anforderungen
+
+Praxisindikatoren
+
+Die Kindertageseinrichtung ist mit Akteurinnen und Akteuren der nachhaltigen
+Entwicklung im Sozialraum vernetzt.
+
+In der Kindertageseinrichtung …
+• stimmen der Träger, die Leitung und alle Mitarbeiterinnen und Mitarbeiter darin überein, Teil des Sozialraums
+zu sein und dabei eine Verantwortung und Vorbildfunktion zu haben;
+
+• kennen Träger, Leitung und Mitarbeiterinnen und Mitarbeiter die relevanten Akteurinnen und Akteure im Sozialraum,
+die für Fragen der Bildung für nachhaltige Entwicklung
+zuständig sind;
+
+18
+
+ZWISCHENBILANZ ZUM NATIONALEN AKTIONSPLAN BILDUNG FÜR NACHHALTIGE ENTWICKLUNG
+
+Anforderungen
+
+Praxisindikatoren
+• sind die Verantwortlichen davon überzeugt, dass sie von der
+Zusammenarbeit mit Organisationen im Sozialraum profitieren, die beispielsweise nachhaltig wirtschaften, ihre Arbeit
+ressourcenschonend sowie global fair gestalten, in denen
+Naturschutz oder kulturelle Vielfalt im Vordergrund stehen;
+
+• suchen und gestalten Träger, Leitung und pädagogische
+Mitarbeiterinnen und Mitarbeiter aktiv die Zusammenarbeit
+mit Organisa­tionen und Einrichtungen aus dem Umfeld der
+Kita und tragen damit zu der Gestaltung einer nachhaltigen
+Bildungslandschaft bei;
+
+• unterstützen die pädagogischen Mitarbeiterinnen und Mitarbeiter mit ihrem Träger und ihrer Leitung die Eltern dabei,
+in Gremien und Arbeitsgruppen für lokale Entwicklungen
+mitzuwirken;
+
+• engagieren sich die pädagogischen Mitarbeiterinnen und
+Mitarbeiter und ihr Träger in relevanten kommunalpolitischen Gremien und Arbeitsgruppen für Fragen der Nachhaltigkeit.
+
+Unterstützungsprozesse
+Baustein: Ressourcenmanagement, Bewirtschaftung und Beschaffung
+Anforderungen
+
+Praxisindikatoren
+
+Als ein Lernort mit Vorbildfunktion wird
+die Kindertageseinrichtung im Sinne von
+Nachhaltigkeit und im Sinne der Bildung
+für nachhaltige Entwicklung bewirtschaftet.
+
+In der Kindertageseinrichtung …
+• identifizieren Träger und Leitung Wirtschaftsfelder wie das
+Kochen und die Verpflegung, die schrittweise nachhaltig
+ausgerichtet werden können;
+
+• orientieren sich die Verantwortlichen in ihrem Handeln an
+den „Strategien einer nachhaltigen Entwicklung“;
+
+19
+
+Anforderungen
+
+Praxisindikatoren
+
+• gibt es eine Richtlinie mit Empfehlungen für eine umweltverträgliche und verantwortungsbewusste Bewirtschaftung
+und Beschaffung, die allen bekannt ist;
+
+• achten Träger, Leitung und pädagogische Mitarbeiterinnen
+und Mitarbeiter entsprechend der Empfehlungen darauf,
+dass bei der Anschaffung von Verbrauchsgütern und Materialien Nachhaltigkeitskriterien berücksichtigt werden;
+
+• wird vor jeder Neuanschaffung geprüft, ob diese notwendig
+ist;
+
+• stellen der Träger, die Leitung und die pädagogischen
+Mitarbeiterinnen und Mitarbeiter sicher, dass Eltern umfassend über Fragen der nachhaltigen Bewirtschaftung und
+Beschaffung informiert sind.
+
+20
+
+Literaturverzeichnis
+Kauertz, A.; Molitor, H.; Saffran, A.; Schubert, S.; Singer-Brodowski,
+M.; Ulber, D. und Verch, J. (2019): Zieldimensionen einer Bildung
+für nachhaltige Entwicklung (BNE) für Kinder, pädagogische
+Fach- und Leitungskräfte. In: Stiftung „Haus der kleinen Forscher“
+(Hrsg.): Frühe Bildung für nachhaltige Entwicklung – Ziele und
+Gelingensbedingungen (Reihe: Wissenschaftliche Untersuchungen zur Arbeit der Stiftung „Haus der kleinen Forscher“, Bd. 12).
+Opladen: Budrich , S. 48–119.
+Mackey, G. (2012): To know, to decide, to act: The young child’s
+right to participate in action for the environment. In: Environmental Education Research, 18(4), S. 473–484.
+Ökumenischer Prozess (2017): Auf dem Weg zu einer Kultur der
+Nachhaltigkeit. Plädoyer für ökumenische Such- und Konsultationsprozesse,
+PDF verfügbar unter (Link abgerufen am 30.04.2020):
+umwelt-evangelisch.de/component/jdownloads/send/15-unterricht-und-bildung/222-umkehr-zum-leben
+Pramling Samuelsson, I. (2011): Why we should begin early with
+ESD: The role of early childhood education. In: International
+Journal of Early Childhood, Jg. 43; H. 2; S. 112.
+Schneidewind, U. (2018): Die große Transformation. Eine Einführung in die Kunst gesellschaftlichen Wandels. Originalausgabe.
+Frankfurt am Main: FISCHER Taschenbuch.
+Steffen, W.; Richardson, K.; Rockström, J. et al. (2015): Sustainability. Planetary boundaries: guiding human development on a
+changing planet. In: Science (New York, N.Y.), 347 (6223).
+UNESCO (2014): Roadmap for Implementing the Global Action
+Programme on Education for Sustainable Development,
+PDF verfügbar unter (Link abgerufen am 30.04.2020):
+unesdoc.unesco.org/ark:/48223/pf0000230514
+Vare, P.; Scott, W. (2007): Learning for a Change.
+In: Journal of Education for Sustainable, 1 (2), S. 191–198.
+DOI: 10.1177/097340820700100209.
+Vereinte Nationen: Sustainable Development Goals (SDG),
+Link abgerufen am 30.04.2020:
+sdgs.un.org/goals
+
+Impressum
+Herausgeber
+Forum Frühkindliche Bildung
+Nationale Plattform Bildung für nachhaltige Entwicklung
+c/o Bundesministerium für Bildung und Forschung
+Referat Bildung in Regionen;
+Bildung für nachhaltige Entwicklung
+11055 Berlin
+Stand
+September 2020
+Text
+Für die Inhalte der einzelnen Kapitel ist das
+Forum Frühkindliche Bildung verantwortlich.
+Gestaltung
+familie redlich AG – Agentur für Marken und Kommunikation
+KOMPAKTMEDIEN – Agentur für Kommunikation GmbH
+Bildnachweise
+Titel: Adobe Stock/Anastasia
+S. 2: Foto Frank Jansen/privat, Foto Susanne Schubert/BB
+S. 2/3: gettyimages/Mike Kemp
+S. 4: Adobe Stock/kromkrathog
+S. 6: Adobe Stock/Jacob Lund
+S. 8: Adobe Stock/Monkey Business
+S. 9: Adobe Stock/Andrey Kuzmin
+S. 10–18: Icons von Lena Grüber
+Diese Publikation wird als Fachinformation
+des Forums Frühkindliche Bildung der
+Nationalen Plattform Bildung für nachhaltige
+Entwicklung kostenlos herausgegeben. Sie ist
+nicht zum Verkauf bestimmt und darf nicht
+zur Wahlwerbung politischer Parteien oder
+Gruppen eingesetzt werden.
+
+bne-portal.de
+
+

@@ -1,0 +1,413 @@
+\documentclass[letterpaper]{article}
+\usepackage[ngerman]{babel} % Sprache festlegen
+\usepackage[utf8]{inputenc}
+\usepackage[top=1.2in, left=1.4in, bottom=1.2in, right=1.4in]{geometry} % Seitenränder
+%\usepackage{amsmath,amsthm,amssymb} % Mathematische Symbole
+\usepackage{url} % Schöne URLs erstellen
+\usepackage{csquotes} %Korrekte Gänsefüßchen
+\usepackage[onehalfspacing]{setspace} % Zeilenabstand
+%\newcommand{\nochOffen}[1]{ \begin{quote} \textbf{Offen:} #1 \end{quote}}
+\usepackage{tabularx}
+
+%\usepackage{biblatex}
+\usepackage{graphicx}
+
+
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+        \vspace*{2cm}
+            
+        \LARGE
+        \textbf{SDG\,in\,deutschen Bundestagsreden\,}\\
+            \text {eine Distant Reading Analyse mittels Machine Learning}
+            
+        \vspace{0.5cm}
+        \large
+        Seminar Aktuelle Trends der Informatik 
+            
+        \vspace{3.0cm}
+        
+        \normalsize{\textbf{Veronika Marie Heuten}}\\
+        \normalsize{v.heuten@studserv.uni-leipzig.de}\\
+        \normalsize{Matrikelnr. 3724542}\\
+            
+           \vspace{3cm}
+
+
+        31.10.2021
+        
+        \vspace{0.8cm}
+            
+        \includegraphics[width=0.3\textwidth]{img/lpzg_icon.jpg}
+          
+        \vspace{0.8cm}
+        
+        \normalsize
+        Sommersemester 2021\\
+        \vspace{0.8cm}
+        \small Betreuung Uni Leipzig: Prof. Dr. Hans-Gert Gräbe\
+        \small Fakultät für Mathematik und Informatik\\
+        \small Universität Leipzig\\
+            
+    \end{center}
+\end{titlepage}
+
+
+\clearpage 
+\tableofcontents
+\clearpage
+
+\section{Einleitung}
+Die Menschheit steht vor vielen schwerwiegenden Problemen. Noch immer leben viele Menschen in Armut, hungern, haben keinen Zugang zu sauberem Trinkwasser und arbeiten unter menschenunwürdigen Bedingungen. Ein Großteil dieser Probleme resultiert aus der Art wie wir Menschen leben, miteinander aber auch mit der Umwelt umgehen und welche Hierarchien als selbstverständlich angesehen werden. Diese sind durch Ungleichheit zwischen Geschlechtern, Nationen und Gesellschaftsschichten, die der Mensch im Laufe seines Bestehens selbst hervorgebracht hat, entstanden. Dazu kommt, dass diese Entwicklung in den größten Teilen irreversibel ist. Viele dieser Missstände bedingen sich gegenseitig und verschlimmern einander. So geht Armut beispielsweise mit dem unzureichenden Zugang zu Trinkwasser einher, was wiederum hygienische Missstände verursacht und Krankheiten begünstigt. Kranken Menschen wiederum können nur schwer einer Arbeit nachgehen was wiederum auch Armut und Hunger begünstigt. \\
+Als wären diese Umstände nicht schon aussichtslos genug, traf im Jahr 2020 ein zusätzliches Problem auf die Weltgemeinschaft. Mit der Coronapandemie existiert nun ein weiteres Problem, das nur global unter Kontrolle gebracht werden kann. Durch den Ausbruch der pandemischen Lage von globaler Tragweite wurden die bis dahin essentiellen Probleme der Menschen in den Hintergrund gerückt. Der Kampf gegen den Klimawandel, Zerstörung von Ökosystemen, Hunger, Armut und Ungerechtigkeit musste warten. Und das obwohl viele dieser Themen durch die Ausnahmesituation verstärkt wurden. Besonders im globalen Süden wurden viele Probleme durch die pandemische Lage noch verstärkt. Wie soll die Menschheit nun gegen diese Probleme ankommen? Die Art zu Leben des globalen Nordens und dessen Einfluss auf die Umwelt lassen sich nicht Rückgängig machen. Die einzige Möglichkeit allen Menschen ein Leben in Wohlstand, Sicherheit und Gesundheit zu bieten liegt darin einen Wandel hin zu nachhaltigem Wirtschaften zu bewältigen. \\
+In der vorliegenden Arbeit soll Untersucht werden ob sich die deutsche Bundesregierung mit den 17 Sustainable Development Goals der Vereinten Nationen beschäftigt. Zunächst wird ein kurzer Überblick über die Entstehungsgeschichte der Sustainable Development Goals und ihren Inhalt gegeben. Im Anschluss daran soll erläutert werden wie in dieser Analyse vorgegangen wird und welche Methoden verwendet werden. Dann folgt ein Beschreibung der verwendeten Datensätze und wie mit diesen verfahren wird. Im nächsten Abschnitt werden die Ergebnisse präsentiert und anschließend interpretiert. Im abschließenden Teil wird das Vorgehen der Analyse reflektiert und ein Fazit gezogen. 
+
+\clearpage
+
+\section{Sustainable Development Goals}
+Im Jahr 2000 verständigten sich die Vereinten Nationen auf einem UN-Gipfel dazu den elementaren Problemen der Menschheit gemeinschaftlich entgegenzuwirken. Daraufhin wurden die sogenannten "Millenium Development Goals" (MDGs) verabschiedet. In diesen wurden acht Ziele festgelegt, die bis zum Jahr 2015 erreicht werden sollten. Diese Ziele wurden wie folgt definiert: \cite{BMZ}
+
+\begin{enumerate}
+    \item den Anteil der Weltbevölkerung, der unter extremer Armut und Hunger leidet, halbieren
+    \item allen Kindern eine Grundschulausbildung ermöglichen
+    \item die Gleichstellung der Geschlechter fördern und die Rechte von Frauen 
+    \item die Kindersterblichkeit verringern
+    \item die Gesundheit der Mütter verbessern
+    \item HIV/Aids, Malaria und andere übertragbare Krankheiten bekämpfen
+    \item den Schutz der Umwelt verbessern
+    \item eine weltweite Entwicklungspartnerschaft aufbauen
+\end{enumerate}\\
+Durch diese ehrgeizigen und bis dahin der Geschichte einmaligen Ziele konnten sich in den 15 Jahren des Geltungszeitraumes der MDGs mehr als eine Milliarde Menschen aus extremer Armut befreit, Hunger abgebaut, und so vielen Mädchen und Frauen wie nie zuvor eine Schulbildung ermöglicht werden. Jedoch wurden diese Ziele bis zum Jahr 2015 nicht erreicht, was den UN-Generalsekretär Ban Ki-Moon dazu brachte eine "Post-2015-Entwicklungsagenda", die diese Ziele weiter voran treiben soll zu fordern \cite{UN}.\\
+In der Tradition der MDGs wurde im September 2015 die "Agenda 2030 für nachhaltige Entwicklung" mit den 17 darin enthaltenen "Sustainable Development Goals" (SDGs) verabschiedet. Diese Ziele sind die erste internationale Übereinkunft, die das Prinzip der Nachhaltigkeit mit der Bekämpfung von Hunger und Armut mit einander in Beziehung setzt \cite{BMZ}. Die vereinten Nationen haben es sich die zur Aufgabe gemacht eine sozial, ökonomisch und ökologisch gerechte Welt bis zum Jahre 2030 zu erreichen.\\
+Die 17 Ziele lauten in ihren Überschriften: \cite{Agenda2030}
+ \begin{enumerate}
+     \item Keine Armut
+     \item Kein Hunger 
+     \item Gesundheit und Wohlergehen 
+     \item Hochwertige Bildung 
+     \item Geschlechter Gleichheit 
+     \item Sauberes Wasser und Sanitäreinrichtungen 
+     \item Bezahlbare und sauberer Energie 
+     \item Menschenwürdige Arbeit und Wirtschaftswachstum 
+     \item Industrie, Innovation und Infrastruktur
+     \item Weniger Ungleichheit (in und zwischen Ländern)
+     \item Nachhaltige Städte und Gemeinden
+     \item Nachhaltiger Konsum und Produktion 
+     \item Maßnahmen zum Klimaschutz
+     \item Leben unter Wasser (erhalten und nachhaltig nutzen)
+     \item Leben an Land (schützen, wiederherstellen)
+     \item Frieden, Gerechtigkeit und starke Institutionen 
+     \item Partnerschaften zur Erreichung der Ziele
+    
+ \end{enumerate}\\
+Diese 17 Ziele lassen sich in fünf, etwas gröberer Handlungsfelder zusammenfassen: \textbf{Mensch} (People) , \textbf{Planet} (Planet), \textbf{Wohlstand}, (Prosperity), \textbf{Frieden} (Peace) und \textbf{Partnerschaft} (Parntership).\\
+Auch wenn in den letzten Jahren Fortschritte gemacht wurden, wurde das Erreichen der Ziele durch die Coronapandemie weit zurückgeworfen. Darunter leiden besonders die ärmsten Länder\cite{Agenda2030}. Im September 2019 wurde festgestellt, dass die Entwicklungsziele mit der bisherigen Strategie bis 2030 nicht erreicht werden können. Um dies auszugleichen und die SDGs doch noch bis 2030 zu erreichen müsste die Weltgemeinschaft jährlich zusätzlich 4,5 Billionen Euro investieren. Besonders durch die weltweite pandemische Lage wurde den vereinten Nationen vor Augen geführt, dass zur globalen Bewältigung von globalen Herausforderungen nachhaltiges Handeln von besonderer Wichtigkeit sind \cite{Bericht}.\\
+Gerade unter diesem Gesichtspunkt stellt sich die Frage ob die SDGs im politischen Diskurs des deutschen Bundestages thematisiert werden. 
+ \clearpage
+ 
+\section{Erläuterung Vorgehen}
+Um der Beantwortung der Frage nach der Präsenz der SDGs im Diskurs der deutschen Politik etwas näher zu kommen soll dies im Folgenden mittels distant reading untersucht werden. Distant reading bezeichnet die eher quantitativ geprägte Untersuchung von großen Mengen an Textdaten. Hierbei werden zum Beispiel Worthäufigkeiten oder co-occurenzen interpretiert. Dies steht im Gegensatz zur traditionellen Methode des close readings, worunter man die herkömmliche inhaltliche Interpretation von Texten versteht\cite{Moretti}. 
+
+\subsection{Was ist Topic Modeling und wie funktioniert es?}
+Die Methode des Topic Modeling erstellt für eine Sammlung von Texten oder innerhalb eines einzelnen Textes verschiedene "Topics" auf Deutsch: "Überschriften". Diese Topics setzt sich aus einer Reihe von Worten zusammen, die häufig zusammen auftauchen. Hier wird alleine auf Grund der Häufigkeit mit der die Worte gemeinsam auftauchen davon ausgegangen, dass diese in thematischem Bezug zu einander stehen. Die Topics werden aus den analysierten Texten heraus gefunden und benötigen keine externen Wörterbücher oder Trainingsdatensätze. 
+
+\subsection{Verwendete Daten und Vorgehen}
+Um der Forschungsfrage nachzugehen in wie weit die 17 Ziele der nachhaltigen Entwicklung in der deutschen Politik beachtet werden, wird zum einen ein Korpus aus den Volltexten der Plenarsitzungen des deutschen Bundestages verwendet. Der deutsche Bundestag stellt alle Plenarprotokolle und Drucksachen ab der ersten Wahlperiode, sowie alle Biografien aller Abgeordneten seit 1949 und Abstimmungslisten aller namentlichen Abstimmungen zur öffentlichen Verfügung \cite{Bundestag}. Jedoch sind nicht alle dieser veröffentlichten Dokumente maschinenlesbar. Das gemeinnützige Projekt "Open Discourse" hat daher aus diesen öffentlich zugänglichen Daten einen Korpus erstellt, der alle Plenarsitzungen des deutschen Bundestags inklusive Metadaten (Datum, Sprecher*in, Wahlperiode) enthält\cite{OpenDiscourse}. Dieser Korpus ist frei zugänglich und wurde daher im Rahmen dieses Papers verwendet. Für die Analyse wurden alle Redebeiträge seit dem 01.01.2016 einbezogen, da seit diesem Tag die SDGs offiziell in Kraft getreten sind.\\
+Auf der anderen Seite wird ein weiteres Modell mit anderen Texten trainiert um herauszufinden, ob sich einzelne SDGs überhaupt als Topic ausmachen können. Dazu wurden alle Publikationen des BNE-Forums heruntergeladen und als Korpus verwendet. Das BNE-Forum ist das Forum für Bildung für nachhaltige Entwicklung des Bundesministeriums für Bildung und Forschung. Um eine friedliche und nachhaltige Gesellschaft zu gestalten, wie es sich die SDGs als Ziel gesetzt haben ist nachhaltige Bildung unabdingbar. So werden Bürger*innen die Fähigkeiten an die Hand gegeben vorausschauend zu denken, interdisziplinäres Wissen zu verinnerlichen, autonom zu handeln und an gesellschaftlichen Entscheidungsprozessen teilzuhaben\cite{BNE}. Da in den Veröffentlichungen des BNE die SDGs mit Sicherheit thematisiert werden, eignet sich dieses Korpus sehr gut als Vergleich zu den Bundestagsreden um zu überprüfen ob sich die in den mittels LDA extrahierten Topics aus den Texten wieder erkennen lassen oder ob der Ansatz nicht für die Klärung der Forschungsfrage geeignet ist.\\
+Um die Topics aus den Korpora zu erhalten wird MALLET verwendet. MALLET ist ein Java basiertes Package, das mit dem Little Mallet Wrapper auch für Python verfügbar ist. Das MAchine Learning LanguagE Toolkit wurde von Andrew McCallum entwickelt. Er lehrt an der University of Massachusets Amherst\cite{MALLET} \cite{MALLET_WELSH}.\\
+Das MALLET Topic Modelling ist LDA basiert. LDA steht für "Latent Dirichlet Allocation", hierbei handelt es sich um ein im Jahr 2000 vorgestelltes Wahrscheinlichkeitsmodell. Die betrachteten Wort aus den zu verarbeitenden Texten werden gruppiert und ergeben die Topics \cite{LDA}.\\
+Im folgenden Modell wurden für jeden Korpus 17 Topics generiert um im Idealfall ein 1:1 Matching mit den 17 SDGs zu bekommen.\\
+Die gewonnenen Topics werden dann betrachtet, und durch Ermessen der Autorin den SDGs zugeordnet. Die Benennung von Topics aufgrund ihres Inhaltes durch die durchführenden Forscher*innen ist bei ungelabelten LDA gängige Praxis \cite{Raman}.
+Im Prozess der Datenverarbeitung wird zunächst jegliche Art von Großschreibung entfernt, sodass alle Wörter klein geschrieben sind. Danach werden alle Satzzeichen und Zahlen aus dem Korpus entfernt. Der entscheidende Teil für eine Korpusanalyse ist die Entfernung aller Stoppwörter. Stoppwörter sind Worte, die sehr häufig auftreten und keinen Informationsgewinn für das Ergebnis bedeuten. Solche Listen können vorgerfertigt verwendet und manuell ergänzt werden. In der vorliegenden Analyse wird die deutsche Stoppwortliste des Phython nltk Packages verwendet. 
+\clearpage
+
+\section{Ergebnisse}
+\subsection{Metadaten Korpus}
+Das Korpus der Bundestagsreden seit dem 01.01.2016 enthält 4028113 Wörter und ein Vokabular von 171404 verschiedenen Wörtern. Das BNE-Korpus besteht aus 35 Publikationen, enthält insgesamt 365470 Wörter und hat ein Vokabular von 42658 Wörtern. Das Korpus mit den Bundestagsreden ist in etwa 11mal so groß wie das BNE-Korpus. 
+
+\subsection{Ergebnisse Topic Modelling} 
+Nachfolgend sind die aus der Analyse hervorgegangenen Topics aufgezeigt. In der untersten Zeile werden die SDGs angezeigt, die am ehesten mit den Tpoics in Verbindung stehen könnten. Dies ist Ergebnis einer inhaltlichen Interpretation der durch das Topic Modeling erhaltenen Informationen.\\
+
+\subsubsection{Topic Modeling BNE-Korpus}
+
+    \textbf{Topic 1} 0,22632\\
+dekade unesco deutschland aktivitäten nationalkomitee wurde projekte deutschen jahre konferenz tisch umsetzung deutsche aktionsplan erklärung wurden bne bonn runden projekt  \\
+\textbf{Zugehörige SDG:} 17. Partnerschaften zur Erreichung der Ziele \\
+
+\textbf{Topic 2} 0,0547\\
+nachhaltigkeit heute unesco menschen kultur ressourcen müssen leben staaten vielfalt politik verstehen länder konvention menschenrechte begriff gesellschaften wachstum kulturelle bevölkerung   \\
+\textbf{Zugehörige SDG:} keine Übereinstimmung \\
+
+\textbf{Topic 3} 0,63499 \\
+bne sowie nachhaltigkeit akteure rahmen ziele bereich nachhaltigen engagement hochschulen kommunen zusammenarbeit akteuren unterstützung maßnahmen vernetzung schule aktivitäten entwickelt arbeit   \\
+\textbf{Zugehörige SDG:} 4. Hochwertige Bildung; 17. Parternerschaften zur Erreichung der Ziele\\
+
+\textbf{Topic 4} 0,3658 \\
+bne unesco sowie nachhaltigen entwicklung akteure dekade umsetzung weltaktionsprogramm wap ebene aktivitäten unterstützung bereich handlungsfeld weltaktionsprogramms rolle bildung rahmen wichtige    \\
+\textbf{Zugehörige SDG:} keine Übereinstimmung\\
+  
+\textbf{Topic 5} 0,16238 \\
+menschen natur info handeln kasten foto lebens aspekte weltweit kriterien natürlichen erde beispiele verändern gruppe generationen http qualitätskriterien verhalten www   \\
+\textbf{Zugehörige SDG:} keine Übereinstimmung\\
+    
+\textbf{Topic 6} 0,07403 \\
+indikatoren entwicklung nachhaltige bildung indikator wurden bzw bereich daten wurde forschung hinsichtlich unece anzahl bildungsberichterstattung indikatorenset ergebnisse bildungsstandards sowie hochschulen   \\
+ \textbf{Zugehörige SDG:} 4. Hochwertige Bildung \\
+ 
+ 
+\textbf{Topic 7} 0,00887 \\
+vielfalt biologische natur biologischer biologischen sowie vgl nutzung schutz abb jugendlichen wald bedeutung projekt umwelt schlüsselthemen deutschland arten kinder querbeet    \\
+\textbf{Zugehörige SDG:} 13. Maßnahmen zum Klimaschutz; 15. Leben an Land \\
+
+\textbf{Topic 8} 0,04604 \\
+unesco deutschland deutschen kultur vielfalt deutsche kommission inklusive prof ziele kulturweit kulturerbe welterbe fördern kulturelle netzwerk erhalten projekte oer weltweit   \\
+\textbf{Zugehörige SDG:} 17. Partnerschaften zur Erreichung der Ziele \\
+
+\textbf{Topic 9} 0,05341  \\
+mobilität thema bildungsbereich titel broschüre herausgeber sekundarstufe lernmedium erscheinungsjahr zukunft außerschulische teilnehmer umwelt multiplikatoren primarstufe website verkehr link online dekade    \\
+\textbf{Zugehörige SDG:} 4. Hochwertige Bildung \\
+
+\textbf{Topic 10} 0,8289 \\
+mehr menschen gibt wurde welt wissen immer viele themen geht neue jahr nachhaltigen jahren wurden seit etwa eigenen gestalten beispiel   \\
+\textbf{Zugehörige SDG:} keine Übereinstimmung \\
+
+\textbf{Topic 11} 1,22198 \\
+     entwicklung bildung nachhaltige unesco lernen umsetzung nachhaltigkeit deutschland schulen nachhaltiger gesellschaft forschung kommission umwelt dabei deutschen berlin deutsche internationale handeln   \\
+   \textbf{Zugehörige SDG:} 4. Hochwertige Bildung \\
+   
+\textbf{Topic 12} 0,07148 \\
+     hochschulen nachhaltigkeit universität hochschule lehre forschung nachhaltige netzwerk studierenden http netzwerks www entwicklung studierende uni leuphana sowie seit universitäten betrieb    \\
+   \textbf{Zugehörige SDG:} 4. Hochwertige Bildung \\
+   
+\textbf{Topic 13} 0,09144 \\
+     bne ziel handlungsfeld hochschule iii umsetzung nationalen kommunen fachforum aktionsplan bmbf commitment fördert länder bildung non maßnahmen schule hochschulen nap    \\
+    \textbf{Zugehörige SDG:} 4. Hochwertige Bildung \\
+
+\textbf{Topic 14} 0,16984 \\
+     dekade projekte projekten bne projekt verbreitung nap entwicklung laufenden abb verankerung ergebnisse aktivitäten maßnahmen zielgruppen gruppe eher vgl zahl trifft    \\
+    \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+    
+\textbf{Topic 15} 0,05064 \\
+stärken strukturen netzwerk nachhhaltig thüringen spohns hsc gelsenkirchen haus klimahaus budde tübingen neumarkt kita till lernorte prof uelzen stadt \\
+ \textbf{Zugehörige SDG:} 11. Nachhaltige Städt und Gemeinden \\
+    
+\textbf{Topic 16} 0,05569 \\
+         hte and education development sustainable that are this with germany have not decade berlin all which our can european national\\
+    \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+
+\textbf{Topic 17} 0,11911\\
+     stadt dekade projekt kommunen wurde bne zukunft schulen evaluation ansprechpartner aktivitäten bayern weitere initiative umweltbildung beispiel informationen netzwerk reichweite kinder    \\
+     \textbf{Zugehörige SDG:} 4. Hochwertige Bildung\\
+
+Inhaltliche Zuordnung zu SDGs: \\
+\begin{tabular}{ |c|c|} 
+\hline
+Nummer und Bezeichnung SDG & inhaltlich einem Topic zugeordnet\\
+\hline
+1. Keine Armut & -- \\ 
+\hline 
+2. Kein Hunger & -- \\
+\hline
+3. Gesundheit und Wohlergehen & -- \\
+\hline
+4. Hochwertige Bildung & 6 mal \\
+\hline 
+5. Geschlechter Gerechtigkeit & -- \\
+\hline
+6. Sauberes Wasser und Sanitäreinrichtungen & -- \\
+\hline
+7. Bezahlbare und saubere Energie & -- \\
+\hline 
+8. Menschenwürdige Arbeit und Wachstum & -- \\
+\hline 
+9. Industrie, Innovation und Infrastruktur & -- \\
+\hline 
+10. Weniger Ungleichheit & -- \\
+\hline 
+11. Nachhaltige Städte und Gemeinden & 1 mal \\
+\hline 
+12. Nachhaltiger Konsum und Produktion & -- \\
+\hline 
+13. Maßnahmen zum Klimaschutz & 1 mal \\
+\hline 
+14. Leben unter Wasser & -- \\
+\hline 
+15. Leben an Land & 1 mal \\
+\hline 
+16. Frieden, Gerechtigkeit und starke Institutionen & -- \\
+\hline 
+17. Partnerschaften zur Erreichung der Ziele & 3 mal \\
+\hline 
+\end{tabular}
+   
+
+\subsubsection{Topic Modeling Bundestagsreden}
+Number of Documents: 1\\
+Mean Number of Words per Document: 4028113.0\\
+Vocabulary Size: 171404\\
+
+\textbf{Topic 1} 2.869,3306 \\
+schön ziel übrigens zweitens bekommen lage erteile politische beiden vorgelegt pflege jemand rechte weder form schützen gezeigt entwurf aktuell wünschen\\
+  \textbf{Zugehörige SDG:}  keine Übereinstimmung\\
+
+\textbf{Topic 2} 224,92371 \\
+spielball laufzeit partnerländer laufende wirtschaftsförderung wladimir aufgestellten dadurch berufsbildungsbericht ausbauziele einzelpersonen partizipieren projekt kitaplus steile nüchtern billiger opel gepflegt grundgesetz   \\
+  \textbf{Zugehörige SDG:} 8. Menschenwürdige Arbeit und Wirtschaftswachstum \\
+
+\textbf{Topic 3} 219,32355 \\
+zurückzunehmen darzulegen lebhaft kulturstaatsministerin mullahs antibiotikaresistenzen rüstungskontrolle unruhig ultima angrenzenden feindbild fernen abscheuliche spr kirchlichen niedrigem unb eingeordnet ahne infektionsschutz   \\
+  \textbf{Zugehörige SDG:} 3. Gesundheit und Wohlergehen \\
+    
+\textbf{Topic 4} 220,99597 \\
+umg dsgvo totaler flankieren menschenrechtskonvention entstandenen volker verletzten subvention passend palette rentenbeiträge nachfolge ausdrücklichen allerletzten heimat prophezeit hautnah misstrauen pantel    \\
+  \textbf{Zugehörige SDG:} keine Übereinstimmung \\   
+
+\textbf{Topic 5} 14.859,18463 \\
+herr vielen kollegen kolleginnen fraktion frau dank müssen mehr heute menschen herren geht bundesregierung präsident damen wort kollege spd mal   \\
+  \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+   
+\textbf{Topic 6} 10.499,17592 \\
+liebe schon damen dank kollegin sagen herren frage kollege dafür ganz deshalb gesagt fdp euro gesetz deutlich worden unserer zeit    \\
+  \textbf{Zugehörige SDG:} keine Übereinstimmung \\    
+
+\textbf{Topic 7} 567,1588 \\
+ehemaligen belastet japan teurer änderungsanträgen künstlich unterstrichen erkenntnissen pay berichterstatterin einwanderungsgesetz best hauptaufgabe meier umfangreiches artur dieselskandal gesetzgeberisch wasserstraße test   \\
+  \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+  
+\textbf{Topic 8} 224,69176 \\
+erhofft heranziehen kompromisses neun künstlerischen basierend schlau forschungsinstitut finanzmarktnovellierungsgesetz wirtschaftsforschung begrenzt familienarmut informationelle ressortübergreifende kriegerischen resolve widerfahren herausgeholt familienausschuss landshut \\
+  \textbf{Zugehörige SDG:} keine Übereintimmung \\
+    
+\textbf{Topic 9} 227,04995 \\
+zuwendung erp versuchte gelebter sportbund trainingsmission friedensverhandlungen informieren bmel fahrgastzahlen wiege pädagogisch gemachte ertrunken trivial asylsystems haushalt relativierung förder hochverehrte \\
+ \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+
+\textbf{Topic 10} 226,863 \\
+traumatisiert hinzunehmen wohnung vertragsparteien psychologische genossenschaften konkret weiterarbeiten genehmigten vertrages stasiunterlagen hehre eier einwanderungsgesellschaft abgleich gegossen lebensbereiche mitarbeiterin bittsteller ungesunde   \\
+      \textbf{Zugehörige SDG:} keine Übereinstimmung\\
+
+\textbf{Topic 11} 220,84211 \\
+geburtenrate ausbreiten kartellbehörden freundin halbzeit feindbilder miterlebt leichtere absprache produ gesagten mitzuhelfen groteske entwicklungsausgaben geschockt staatliches zähle vorzuhalten gesundheitsschäden beide  \\
+\textbf{Zugehörige SDG:} keine Übereinstimmung \\
+    
+\textbf{Topic 12} 1.668,70828 \\
+jahre europäischen wurden aufmerksamkeit antwort weiteren wegen fördern demokraten besteht europas freiheit irgendwie zahlreiche verhindert besseren betrachten anfrage ursachen staatsminister  \\
+  \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+    
+\textbf{Topic 13} 220,67603 \\
+ressortabstimmung darstellt pass herunter eingeständnis ablegen ressource pflanze netzwerkdurchsetzungsgesetzes angestoßen mvz beabsichtigen bundesgesundheitsministeriums bewahrt kleinreden prostituiertenschutzgesetz aufbaut koordinator einwenden mieterschutz  \\
+      \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+
+\textbf{Topic 14} 5.517,16359 \\
+vielleicht einfach heißt minister stehen wer unternehmen maßnahmen frauen ersten angesprochen zeigt allerdings bündnis ländern führen ganze fordern bleiben schließe   \\
+       \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+   
+\textbf{Topic 15} 4.533,16673 \\
+linke tun leider zukunft bund insbesondere sicherheit lange verantwortung beratung nächsten fast sogar weniger kommunen abgeordneten diskutieren übrigen tat sowie   \\
+  \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+    
+\textbf{Topic 16} 9.211,67119 \\
+gibt deutschland gut gerade antrag cdu/csu frau nächster wichtig prozent richtig präsidentin sage immer millionen sagen kolleginnen frage union milliarden   \\
+  \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+     
+\textbf{Topic 17} 224,4915 \\
+kompetent festlegungen unwürdigen bauliche vollendung kooperativen verfassungsgemäß wasserstofftechnologie ausfluss prosperierenden sträflich kritische fbb heut steuerbetrug interessenausgleich passwörter überzogenen sozialbereich produzierte \\
+      \textbf{Zugehörige SDG:} keine Übereinstimmung \\
+      
+Inhaltliche Zuordnung zu SDGs: \\
+\begin{tabular}{ |c|c|} 
+\hline
+Nummer und Bezeichnung SDG & inhaltlich einem Topic zugeordnet\\
+\hline
+1. Keine Armut & -- \\ 
+\hline 
+2. Kein Hunger & -- \\
+\hline
+3. Gesundheit und Wohlergehen & 1 mal \\
+\hline
+4. Hochwertige Bildung & --  \\
+\hline 
+5. Geschlechter Gerechtigkeit & -- \\
+\hline
+6. Sauberes Wasser und Sanitäreinrichtungen & -- \\
+\hline
+7. Bezahlbare und saubere Energie & -- \\
+\hline 
+8. Menschenwürdige Arbeit und Wachstum & 1 mal \\
+\hline 
+9. Industrie, Innovation und Infrastruktur & -- \\
+\hline 
+10. Weniger Ungleichheit & -- \\
+\hline 
+11. Nachhaltige Städte und Gemeinden & -- \\
+\hline 
+12. Nachhaltiger Konsum und Produktion & -- \\
+\hline 
+13. Maßnahmen zum Klimaschutz & -- \\
+\hline 
+14. Leben unter Wasser & -- \\
+\hline 
+15. Leben an Land & 1 mal \\
+\hline 
+16. Frieden, Gerechtigkeit und starke Institutionen & -- \\
+\hline 
+17. Partnerschaften zur Erreichung der Ziele & -- \\
+\hline 
+\end{tabular}
+
+
+\subsection{Interpretation der Ergebnisse}
+Die vorliegenden Ergebnisse zeigen leider kein eindeutiges Bild. Die Topics sind diffus und und lassen sich nur in den seltensten Fällen zu einem der 17 SDGs zuordnen, wie in den Tabellen gezeigt ist. Werfen wir nun zu erst einen genaueren Blick auf die Ergebnisse des BNE-Korpus. Hier sind die Topics größtenteils dem SDG 4 \glqq  Hochwertige Bildung\grqq{} zuzuordnen. Dies ist angesichts der Herkunft der Texte nicht wirklich verwunderlich. Immerhin stammen diese aus dem Forum Bildung für nachhaltige Entwicklung. Dass die meisten Texte demnach inhaltlich durch das Thema Bildung bestimmt werden ist demnach klar. Die anderen Topics, die sich im weitesten Sinne mit einem der SDGs in Verbindung bringen lassen sind die SDGs 11 \glqq Nachhaltige Städte und Gemeinden \grqq{}, 13 \glqq Maßnahmen zum Klimaschutz \grqq{}, 15 \glqq Leben an Land \grqq{} und 17 \glqq Partnerschaften zur Erreichung der Ziele \grqq{}, welches drei mal mit den Topics in Verbindung gebracht werden kann. Diese SDGs stehen auch in Verbindung zu den Themen Klimaschutz, Umweltschutz und Nachhaltigkeit. Gar nicht werden hingegen humanitäre Themen wie die Bekämpfung von Hunger und Armut, Geschlechtergerechtigkeit und Frieden erwähnt. Interessant ist auch, dass das Topic 16 der BNE-Analyse. Hier erscheinen nur englische Wörter, was entweder darauf hindeuten könnte, dass ein englischer Text in dem Korpus enthalten ist, oder alle englischen Zitate gruppiert wurden. Zusammenfassend lässt sich über das Topic Modeling des BNE-Korpus sagen, dass sich einige SDGs ausmachen lassen aber nzr jene, die einen Bezug zu Bildung im Bereich Nachhaltigkeitsthemen haben.\\
+Das Topic Modeling des Korpus der Bundestagsreden gestaltet sich in der Interpretation sogar noch etwas schwieriger. Die Themen der einzelnen Topics sind nicht immer auszumachen. Dies liegt mit Sicherheit auch daran, dass das Korpus aus einem ganz anderen Kontext kommt. Hier sind alle Redebeiträge wortwörtlich verschriftlicht und Ziel der Analyse ist es herauszufinden, ob die SDGs überhaupt thematisiert werden. Der Ursprung des Korpus führt schon zum ersten Problem, das auch solche Wörter wie \glqq vielen \grqq{} \glqq Dank \grqq{} \glqq liebe\grqq{} \glqq Kollegen\grqq{} und \glqq Kolleginnen \grqq{} häufig vorkommen, da so viele Redebeiträge eröffnet werden. Diese Problematik hat sich zum Beispiel im Topic 6 niedergeschlagen. In vielen Topics spiegeln sich vor allem Themen von bloßer nationaler Tragweite wieder. Dies lässt sich darin erkennen, dass oft die einzelnen Parteien erwähnt werden. So wird es zum Beispiel zum Problem, das alle Ziffern und Satzzeichen aus dem Korpus entfernt wurden, da die Partei \glqq Bündnis90/die Grünen\grqq{} nicht mehr genau ausgemacht werden kann. Das alleinige Erscheinen des Wortes \glqq Bündnis\grqq{} könnte demnach auf die Partei oder ein anderes, beliebiges Bündnis hindeuten. Im Falle der vorliegenden Analyse ist dies ein wirkliches Problem, da das Wort \glqq Bündnis\grqq{} auch ein Indikator für SDG 17. \glqq Partnerschaften zur Erreichung der Ziele\grqq{} sein könnte. Hier trifft man auf das alt bekannte Grenzen des distant reading: Worte haben abhängig ihres Kontextes unterschiedliche Bedeutungen, die in einer rein quantitativen Analyse nicht verstanden werden können\cite{Raman}. Die Topics des Korpus der Bundestagsreden zeigen nur zwei Verbindungen zu den SDGs 3 \glqq Gesundheit und Wohlergehen\grqq{} und dem Topic 8 \glqq Menschenwürdige Arbeit und Wirtschaftswachstum\grqq{}. Ob bei diesen Topics von einer globalen Tragweite die Rede ist lässt sich schwer sagen. Besonders in der eingangs erwähnten pandemischen Lage könnte das erkannte Topic 4 auch einfach im Bezug auf die Coronapandemie erstellt worden sein. \\
+
+\clearpage
+
+\section{Fazit}
+Nach Interpretation der Ergebnisse lässt sich sagen, dass die zu Anfang geplante Strategie mittels Topic Modeling von 17 Topics ein gutes Matching mit den SDGs zu erhalten nicht aufgegangen ist. Die Topics sind in sich oft nicht schlüssig und lassen selten eine Zuordnung zu einem der SDGs zu. Als voreiliges Fazit ließe sich nun sagen, dass die SDGs nicht oder nur sehr sehr in deutschen Bundestagsreden von Bedeutung sind. Im Anbetracht der verwirrenden Ergebnisse des Topic Modelings müsste aber fairer Weise auch davon ausgegangen werden, dass es keine einheitlichen Themenblöcke sind, die zur Sprache kommen. So bleibt davon auszugehen, dass für eine Beantwortung der Eingangsfrage an einer anderen Stellschraube gedreht werden muss. Sprich; die gewählte Methode hat sich nicht als geeignet erwiesen oder das Problem befindet sich in den Daten. Diese Problematik soll im folgenden Punkt weiter ausgearbeitet werden. 
+Prinzipiell ist die Methode des Topic Modeling für so große Mengen an Texten, wie sie in der beschriebenen Analyse ein probates Mittel. Vielleicht hätte sich ein gelabeltes LDA Modell, das gleich auch die Überschriften zu den Topic generiert besser bewährt um die Zuordnung zu den Topics nicht vom Ermessen der AutorIn abhängig zu machen. Da jedoch die Ergebnisse des Korpus der Bundestagsreden weitaus schlechter ausfielen als die des BNE-Korpus ist es nicht auszuschließen, dass das verwendete Korpus in dieser Form nicht geeignet war. So hätte es eventuell mehr an Preprocessing benötigt um Floskeln, Redewendungen und organisatorisches aus dem Datensatz auszuschließen. Sollte die Forschung weiter fortgeführt werden wäre es eine Überlegung wert die Themen oder Tagesordnungspunkte der Plenar zu verwenden, da hier die Dichte an Information um einiges höher sein dürfte.\\
+Abschließend bleibt noch darauf hinzuweisen, dass selbst wenn die SDGs in den Reden des deutschen Bundestages erwähnt werden und sich mitunter sogar mit der politischen Agenda decken ein strukturelles Problem der SDGs weiterhin bestehen bleibt. Auch wenn die hoch gesteckten Ziele der SDGs als radikal und nie dagewesen gelobt werden, bezeichnet Aram Ziai in einem Artikel die SDGs als "Trostpflaster eines Ungleichheit produzierendes globalen Kapitalismus". Ja, durch die ehrgeizigen Ziele der SDG wurden gerade in China und anderen Ländern des globalen Süden ein Erfolgreicher Kampf gegen die Armut geführt. Jedoch lassen sich diese Erfolge nur unter einem postkolonialistischen Standpunkt feiern. Unter diesem kann Reichtum nur unter der Prämisse von Aneignung billiger Rohstoffe, Zerstörung von Ökosystemen und nicht-erneuerbarer Ressourcen fußen. Um eine wie eingangs beschriebene sozial, ökonomisch und ökologisch gerechte Welt zu erlangen müsste eine Veränderung hin zu einem Gesellschaftsmodell vollzogen werden, die nicht auf dem althergebrachten Verständnis von Reichtum basiert\cite{Ziai}. Auch wenn die SDG ein guter Anfang sind den -zumeist- menschengemachten Problemen der Menschheit entgegenzuwirken bleibt doch fraglich ob dies unter den bisherigen Rahmenbedingungen gelingen kann und sollte.
+
+\clearpage
+
+\begin{thebibliography}{xxx}
+    \bibitem{BMZ} Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Zuletzt aufgerufen am 20.10.2021
+        \url{https://www.bmz.de/de/service/lexikon/mdg-millenniumsentwicklungsziele-mdgs-14674}
+        
+    \bibitem{UN} Millenniums-Entwicklungsziele Bericht 2015, Vereinte Nationen 
+        \url{https://www.un.org/Depts/german/millennium/MDG\%Report\%202015\%20German.pdf}
+        
+    \bibitem{Agenda2030} Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Agenda 2030, zuletzt aufgerufen am 28.10.2021
+        \url{https://www.bmz.de/de/agenda-2030/sdg-17}
+        
+    \bibitem{Bericht} Freiwilliger Staatenbericht Deutschlands zum Hochrangigen Politischen Forum für Nachhaltige Entwicklung 2021; Die Bundesregierung; Juni 2021
+        \url{https://www.bmz.de/resource/blob/86824/6631843da2eb297d849b03d883140fb7/staatenbericht-deutschlands-zum-hlpf-2021.PDF}
+        
+    \bibitem{Ziai} Ziai, Aram. "Die SDGs–Eine postkoloniale Weinprobe." Entwicklungspolitik in Zeiten der SDGs. Essays zum 80 (2018): 205-209
+    
+    \bibitem{Bundestag} 
+        \url{https://www.bundestag.de/services/opendata}
+        
+    \bibitem{OpenDiscourse} Richter, F.; Koch, P.; Franke, O.; Kraus, J.; Kuruc, F.; Thiem, A.; Högerl, J.; Heine, S.; Schöps, K. (2020). Open Discourse.  Harvard Dataverse. V3.
+        \url{https://doi.org/10.7910/DVN/FIKIBO.}
+        
+    \bibitem{BNE} Bundesministerium für Bildung und Forschung; zuletzt aufgerufen am 28.10.2021
+        \url{https://www.bne-portal.de/bne/de/einstieg/was-ist-bne/was-ist-bne_node.html}
+        
+    \bibitem{Moretti} Moretti, F. (2013). Distant Reading. London: Verso. 
+    
+    \bibitem{MALLET} McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit."
+        \url{http://mallet.cs.umass.edu. 2002.}
+    
+    \bibitem{MALLET_WELSH} zuletzt aufgerufen am 28.10.2021   
+        \url{https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/07-Topic-Modeling-Set-Up.html}
+        
+    \bibitem{LDA} Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." the Journal of machine Learning research 3 (2003): 993-1022.
+    
+    \bibitem{Ramage} Ramage, Daniel, et al. "Topic modeling for the social sciences." NIPS 2009 workshop on applications for topic models: text and beyond. Vol. 5. 2009.
+
+
+\end{thebibliography}
+
+\end{document}
