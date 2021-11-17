@@ -4,3 +4,4 @@
 *.dvi
 *.aux
 *.toc
+.ipynb_checkpoints
